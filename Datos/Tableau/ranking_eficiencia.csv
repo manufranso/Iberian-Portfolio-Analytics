@@ -1,0 +1,36 @@
+﻿ticker_yahoo,empresa,sector,retorno_anualizado,riesgo_anualizado,burbuja_size,sharpe_ratio
+ACS.MC,ACS,Construcción,35.2221,22.6117,86.4643,1.5577
+ACX.MC,Acerinox,"Mineral, Metales Y Transformación",13.0499,28.4998,11.6619,0.4579
+AENA.MC,Aena,Transporte Y Distribución,16.0869,22.8346,19.8698,0.7045
+AMS.MC,Amadeus IT Group,Electrónica Y Software,1.169,26.5846,2.2915,0.044
+ANA.MC,Acciona,Construcción,16.9901,28.5765,18.7107,0.5945
+ANE.MC,Acciona Energía,Energías Renovables,-0.8297,29.8549,4.7457,-0.0278
+BBVA.MC,BBVA,Bancos Y Cajas De Ahorro,36.4856,30.6068,81.769,1.1921
+BKT.MC,Bankinter,Bancos Y Cajas De Ahorro,32.4881,28.729,65.3975,1.1308
+CABK.MC,CaixaBank,Bancos Y Cajas De Ahorro,36.8918,29.4391,85.8499,1.2532
+CLNX.MC,Cellnex Telecom,Telecomunicaciones Y Otros,-2.3156,27.6849,5.4041,-0.0836
+COL.MC,Inmobiliaria Colonial,Socimi,-1.7206,25.7535,4.5503,-0.0668
+ELE.MC,Endesa,Electricidad Y Gas,17.969,21.0687,24.7951,0.8529
+ENG.MC,Enagás,Electricidad Y Gas,6.1472,17.902,5.24,0.3434
+FDR.MC,Fluidra,Ingeniería Y Otros,6.5203,35.6323,0.1574,0.183
+FER.MC,Ferrovial,Construcción,22.1172,20.8061,35.5442,1.063
+GRF.MC,Grifols,Productos Farmacéuticos Y Biotecnología,-3.0299,47.7623,10.6834,-0.0634
+IAG.MC,International Airlines Group,Transporte Y Distribución,18.417,38.0823,15.3697,0.4836
+IBE.MC,Iberdrola,Electricidad Y Gas,17.5976,18.62,25.0664,0.9451
+IDR.MC,Indra,Electrónica Y Software,47.0971,33.9958,146.3551,1.3854
+ITX.MC,Inditex,"Textil, Vestido Y Calzado",17.3373,24.909,21.4695,0.696
+LOG.MC,Logista,Transporte Y Distribución,20.3679,16.7289,32.8217,1.2175
+MAP.MC,MAPFRE,Seguros,24.0131,21.1072,41.0162,1.1377
+MEL.MC,Meliá Hotels International,"Ocio, Turismo Y Hostelería",9.6752,31.4995,5.4419,0.3072
+MRL.MC,Merlin Properties,Socimi,16.8719,25.0371,20.4212,0.6739
+MTS.MC,ArcelorMittal,"Mineral, Metales Y Transformación",22.5906,36.0914,25.5734,0.6259
+NTGY.MC,Naturgy,Electricidad Y Gas,11.2885,21.7903,11.5052,0.5181
+RED.MC,Redeia,Electricidad Y Gas,7.6401,17.7858,7.2732,0.4296
+REP.MC,Repsol,Petróleo,23.2627,26.3472,35.0828,0.8829
+ROVI.MC,Laboratorios Rovi,Productos Farmacéuticos Y Biotecnología,18.9926,32.5462,20.0881,0.5836
+SAB.MC,Banco Sabadell,Bancos Y Cajas De Ahorro,48.3779,36.851,147.9234,1.3128
+SAN.MC,Santander,Bancos Y Cajas De Ahorro,31.0378,30.2479,57.4894,1.0261
+SCYR.MC,Sacyr,Construcción,20.6401,23.9387,29.6737,0.8622
+SLR.MC,Solaria,Energías Renovables,10.8041,42.9361,1.7594,0.2516
+TEF.MC,Telefónica,Telecomunicaciones Y Otros,7.4147,20.8889,6.1247,0.355
+UNI.MC,Unicaja,Bancos Y Cajas De Ahorro,32.7575,31.9397,62.2927,1.0256
