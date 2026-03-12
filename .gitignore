@@ -14,7 +14,7 @@ __pycache__/
 ~*.twbr
 *.tmp
 
-# Datos grandes (opcional, pero buena práctica si subes a GitHub público)
+# Datos grandes 
 # data/*.csv
 .ipynb_checkpoints/
 *.db
