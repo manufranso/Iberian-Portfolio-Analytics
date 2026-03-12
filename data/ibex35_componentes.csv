@@ -1,0 +1,36 @@
+ticker_yahoo,empresa,sector
+ANA.MC,Acciona,Construcción
+ANE.MC,Acciona Energía,Energías renovables
+ACX.MC,Acerinox,"Mineral, metales y transformación"
+ACS.MC,ACS,Construcción
+AENA.MC,Aena,Transporte y distribución
+AMS.MC,Amadeus IT Group,Electrónica y software
+MTS.MC,ArcelorMittal,"Mineral, metales y transformación"
+SAB.MC,Banco Sabadell,Bancos y cajas de ahorro
+BKT.MC,Bankinter,Bancos y cajas de ahorro
+BBVA.MC,BBVA,Bancos y cajas de ahorro
+CABK.MC,CaixaBank,Bancos y cajas de ahorro
+CLNX.MC,Cellnex Telecom,Telecomunicaciones y otros
+ENG.MC,Enagás,Electricidad y gas
+ELE.MC,Endesa,Electricidad y gas
+FER.MC,Ferrovial,Construcción
+FDR.MC,Fluidra,Ingeniería y otros
+GRF.MC,Grifols,Productos farmacéuticos y biotecnología
+IAG.MC,International Airlines Group,Transporte y distribución
+IBE.MC,Iberdrola,Electricidad y gas
+ITX.MC,Inditex,"Textil, vestido y calzado"
+IDR.MC,Indra,Electrónica y software
+COL.MC,Inmobiliaria Colonial,SOCIMI
+LOG.MC,Logista,Transporte y Distribución
+MAP.MC,MAPFRE,Seguros
+MEL.MC,Meliá Hotels International,"Ocio, turismo y hostelería"
+MRL.MC,Merlin Properties,SOCIMI
+NTGY.MC,Naturgy,Electricidad y gas
+RED.MC,Redeia,Electricidad y gas
+REP.MC,Repsol,Petróleo
+ROVI.MC,Laboratorios Rovi,Productos farmacéuticos y biotecnología
+SCYR.MC,Sacyr,Construcción
+SAN.MC,Santander,Bancos y cajas de ahorro
+SLR.MC,Solaria,Energías renovables
+TEF.MC,Telefónica,Telecomunicaciones y otros
+UNI.MC,Unicaja,Bancos y cajas de ahorro

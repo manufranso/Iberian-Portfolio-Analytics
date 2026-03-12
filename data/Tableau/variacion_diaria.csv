@@ -1,0 +1,39 @@
+﻿fecha,ticker_yahoo,empresa,sector,precio_cierre,precio_anterior,precio_max,precio_min,volumen,var_pct_diaria
+2026-03-12,^IBEX,IBEX 35,Índice de Mercado,17192.1992,17351.9004,17328.5996,17091.8008,107858866,-0.9203672
+2026-03-12,^VIX,VIX (Índice Volatilidad),Índice de Mercado,25.56,24.23,26.03,24.6,0,5.48906314
+2026-03-12,ACS.MC,ACS,Construcción,107.4,107.1,108.1,106.5,76071,0.28011204
+2026-03-12,ACX.MC,Acerinox,"Mineral, Metales Y Transformación",12.31,12.38,12.42,12.24,325574,-0.56542811
+2026-03-12,AENA.MC,Aena,Transporte Y Distribución,25.86,25.7,25.86,25.51,234439,0.62256809
+2026-03-12,AMS.MC,Amadeus IT Group,Electrónica Y Software,53.86,53.88,54.04,53.34,178269,-0.03711952
+2026-03-12,ANA.MC,Acciona,Construcción,216.0,218.2,218.4,212.8,27027,-1.00824931
+2026-03-12,ANE.MC,Acciona Energía,Energías Renovables,20.58,20.58,20.76,20.38,63108,0.0
+2026-03-12,BBVA.MC,BBVA,Bancos Y Cajas De Ahorro,18.265,18.85,18.76,18.055,6014017,-3.10344828
+2026-03-12,BKT.MC,Bankinter,Bancos Y Cajas De Ahorro,13.405,13.705,13.7,13.36,292817,-2.18898212
+2026-03-12,CABK.MC,CaixaBank,Bancos Y Cajas De Ahorro,10.06,10.24,10.25,10.005,1603750,-1.7578125
+2026-03-12,CLNX.MC,Cellnex Telecom,Telecomunicaciones Y Otros,28.47,29.25,29.32,28.11,425033,-2.66666667
+2026-03-12,COL.MC,Inmobiliaria Colonial,Socimi,5.17,5.16,5.215,5.14,622185,0.19379845
+2026-03-12,ELE.MC,Endesa,Electricidad Y Gas,34.38,34.16,34.61,34.12,430506,0.6440281
+2026-03-12,ENG.MC,Enagás,Electricidad Y Gas,14.66,14.615,14.67,14.49,324717,0.30790284
+2026-03-12,FDR.MC,Fluidra,Ingeniería Y Otros,20.62,20.52,20.76,20.32,104423,0.48732943
+2026-03-12,FER.MC,Ferrovial,Construcción,56.7,56.78,56.9,56.32,172424,-0.14089468
+2026-03-12,GC=F,Oro (Gold Futures),Materia Prima,5185.3999,5167.3999,5197.7998,5130.0,60400,0.34833766
+2026-03-12,GRF.MC,Grifols,Productos Farmacéuticos Y Biotecnología,9.35,9.476,9.474,9.29,1057643,-1.32967497
+2026-03-12,IAG.MC,International Airlines Group,Transporte Y Distribución,4.233,4.337,4.305,4.202,4341041,-2.39797095
+2026-03-12,IBE.MC,Iberdrola,Electricidad Y Gas,19.295,19.21,19.355,19.115,1680983,0.44247788
+2026-03-12,IDR.MC,Indra,Electrónica Y Software,61.85,61.05,61.95,60.55,450478,1.31040131
+2026-03-12,ITX.MC,Inditex,"Textil, Vestido Y Calzado",52.84,52.74,53.16,51.88,603196,0.1896094
+2026-03-12,LOG.MC,Logista,Transporte Y Distribución,30.5,30.32,30.5,30.18,157260,0.59366755
+2026-03-12,MAP.MC,MAPFRE,Seguros,3.648,3.692,3.684,3.632,709014,-1.19176598
+2026-03-12,MEL.MC,Meliá Hotels International,"Ocio, Turismo Y Hostelería",8.685,8.42,8.83,8.35,681771,3.14726841
+2026-03-12,MRL.MC,Merlin Properties,Socimi,13.52,13.7,13.68,13.44,439455,-1.31386861
+2026-03-12,MTS.MC,ArcelorMittal,"Mineral, Metales Y Transformación",47.12,48.74,48.4,47.1,127948,-3.32375872
+2026-03-12,NTGY.MC,Naturgy,Electricidad Y Gas,24.98,24.88,25.02,24.78,322097,0.40192926
+2026-03-12,RED.MC,Redeia,Electricidad Y Gas,14.74,14.77,14.84,14.63,291837,-0.20311442
+2026-03-12,REP.MC,Repsol,Petróleo,22.11,21.7,22.13,21.63,2709889,1.88940092
+2026-03-12,ROVI.MC,Laboratorios Rovi,Productos Farmacéuticos Y Biotecnología,79.9,79.85,80.1,79.15,35765,0.06261741
+2026-03-12,SAB.MC,Banco Sabadell,Bancos Y Cajas De Ahorro,3.077,3.17,3.152,3.056,10708321,-2.93375394
+2026-03-12,SAN.MC,Santander,Bancos Y Cajas De Ahorro,9.655,9.853,9.804,9.562,9844031,-2.00954024
+2026-03-12,SCYR.MC,Sacyr,Construcción,4.18,4.2,4.2,4.132,619770,-0.47619048
+2026-03-12,SLR.MC,Solaria,Energías Renovables,20.52,20.62,20.72,20.15,355812,-0.48496605
+2026-03-12,TEF.MC,Telefónica,Telecomunicaciones Y Otros,3.513,3.514,3.542,3.475,3134262,-0.0284576
+2026-03-12,UNI.MC,Unicaja,Bancos Y Cajas De Ahorro,2.526,2.586,2.58,2.512,1784119,-2.32018561

@@ -1,0 +1,1191 @@
+﻿Activo_1,Activo_2,Correlacion,Sector_Activo_1,Sector_Activo_2
+Acciona,ACS,0.3203640805124751,Construcción,Construcción
+Acciona Energía,ACS,0.2316057662856972,Energías Renovables,Construcción
+Acerinox,ACS,0.41444207519375226,"Mineral, Metales Y Transformación",Construcción
+Aena,ACS,0.4066094968440558,Transporte Y Distribución,Construcción
+Amadeus IT Group,ACS,0.3992166849462551,Electrónica Y Software,Construcción
+ArcelorMittal,ACS,0.44072765863072805,"Mineral, Metales Y Transformación",Construcción
+BBVA,ACS,0.45685683598836246,Bancos Y Cajas De Ahorro,Construcción
+Banco Sabadell,ACS,0.3826335953917427,Bancos Y Cajas De Ahorro,Construcción
+Bankinter,ACS,0.40211737470812914,Bancos Y Cajas De Ahorro,Construcción
+CaixaBank,ACS,0.4085214367845224,Bancos Y Cajas De Ahorro,Construcción
+Cellnex Telecom,ACS,0.17130492481792156,Telecomunicaciones Y Otros,Construcción
+Enagás,ACS,0.21739841501329785,Electricidad Y Gas,Construcción
+Endesa,ACS,0.30034884532717215,Electricidad Y Gas,Construcción
+Ferrovial,ACS,0.5799353357878909,Construcción,Construcción
+Fluidra,ACS,0.31039401526051275,Ingeniería Y Otros,Construcción
+Grifols,ACS,0.15217396334622216,Productos Farmacéuticos Y Biotecnología,Construcción
+Iberdrola,ACS,0.2967497852297815,Electricidad Y Gas,Construcción
+Inditex,ACS,0.41254363295226515,"Textil, Vestido Y Calzado",Construcción
+Indra,ACS,0.33097631693406043,Electrónica Y Software,Construcción
+Inmobiliaria Colonial,ACS,0.3638624254419666,Socimi,Construcción
+International Airlines Group,ACS,0.44744753266010195,Transporte Y Distribución,Construcción
+Laboratorios Rovi,ACS,0.171658891963874,Productos Farmacéuticos Y Biotecnología,Construcción
+Logista,ACS,0.28720708001532136,Transporte Y Distribución,Construcción
+MAPFRE,ACS,0.43987105763099127,Seguros,Construcción
+Meliá Hotels International,ACS,0.4174887004364503,"Ocio, Turismo Y Hostelería",Construcción
+Merlin Properties,ACS,0.39866074920156297,Socimi,Construcción
+Naturgy,ACS,0.24844714745832688,Electricidad Y Gas,Construcción
+Redeia,ACS,0.15046329186625854,Electricidad Y Gas,Construcción
+Repsol,ACS,0.2688495576025584,Petróleo,Construcción
+Sacyr,ACS,0.5326287490546788,Construcción,Construcción
+Santander,ACS,0.5192679632521531,Bancos Y Cajas De Ahorro,Construcción
+Solaria,ACS,0.221492565715158,Energías Renovables,Construcción
+Telefónica,ACS,0.20288619861505555,Telecomunicaciones Y Otros,Construcción
+Unicaja,ACS,0.3696870759664727,Bancos Y Cajas De Ahorro,Construcción
+ACS,Acciona,0.3203640805124751,Construcción,Construcción
+Acciona Energía,Acciona,0.6960518981167187,Energías Renovables,Construcción
+Acerinox,Acciona,0.2658971578012327,"Mineral, Metales Y Transformación",Construcción
+Aena,Acciona,0.24816602270988947,Transporte Y Distribución,Construcción
+Amadeus IT Group,Acciona,0.2662493426408046,Electrónica Y Software,Construcción
+ArcelorMittal,Acciona,0.23235955824171026,"Mineral, Metales Y Transformación",Construcción
+BBVA,Acciona,0.25153626473535057,Bancos Y Cajas De Ahorro,Construcción
+Banco Sabadell,Acciona,0.15060099931906148,Bancos Y Cajas De Ahorro,Construcción
+Bankinter,Acciona,0.16949710331527587,Bancos Y Cajas De Ahorro,Construcción
+CaixaBank,Acciona,0.1925386999534438,Bancos Y Cajas De Ahorro,Construcción
+Cellnex Telecom,Acciona,0.39528990115859935,Telecomunicaciones Y Otros,Construcción
+Enagás,Acciona,0.4319310551526293,Electricidad Y Gas,Construcción
+Endesa,Acciona,0.4793378757461483,Electricidad Y Gas,Construcción
+Ferrovial,Acciona,0.3574513202066899,Construcción,Construcción
+Fluidra,Acciona,0.281411787709917,Ingeniería Y Otros,Construcción
+Grifols,Acciona,0.18217526587318486,Productos Farmacéuticos Y Biotecnología,Construcción
+Iberdrola,Acciona,0.5425582491833555,Electricidad Y Gas,Construcción
+Inditex,Acciona,0.239442358613289,"Textil, Vestido Y Calzado",Construcción
+Indra,Acciona,0.1595288104708355,Electrónica Y Software,Construcción
+Inmobiliaria Colonial,Acciona,0.4029779424698866,Socimi,Construcción
+International Airlines Group,Acciona,0.19613976656636184,Transporte Y Distribución,Construcción
+Laboratorios Rovi,Acciona,0.16396200315539675,Productos Farmacéuticos Y Biotecnología,Construcción
+Logista,Acciona,0.239761665417026,Transporte Y Distribución,Construcción
+MAPFRE,Acciona,0.28162732124474105,Seguros,Construcción
+Meliá Hotels International,Acciona,0.21323350571775426,"Ocio, Turismo Y Hostelería",Construcción
+Merlin Properties,Acciona,0.4030683047880463,Socimi,Construcción
+Naturgy,Acciona,0.37968653482525855,Electricidad Y Gas,Construcción
+Redeia,Acciona,0.44712773358077024,Electricidad Y Gas,Construcción
+Repsol,Acciona,0.14805259777776064,Petróleo,Construcción
+Sacyr,Acciona,0.4009220878602348,Construcción,Construcción
+Santander,Acciona,0.2861856407142579,Bancos Y Cajas De Ahorro,Construcción
+Solaria,Acciona,0.5638283138669509,Energías Renovables,Construcción
+Telefónica,Acciona,0.2283543227901487,Telecomunicaciones Y Otros,Construcción
+Unicaja,Acciona,0.18065878510532854,Bancos Y Cajas De Ahorro,Construcción
+ACS,Acciona Energía,0.2316057662856972,Construcción,Energías Renovables
+Acciona,Acciona Energía,0.6960518981167187,Construcción,Energías Renovables
+Acerinox,Acciona Energía,0.18161343585331202,"Mineral, Metales Y Transformación",Energías Renovables
+Aena,Acciona Energía,0.19449947239896873,Transporte Y Distribución,Energías Renovables
+Amadeus IT Group,Acciona Energía,0.23085152726346275,Electrónica Y Software,Energías Renovables
+ArcelorMittal,Acciona Energía,0.15875542198557469,"Mineral, Metales Y Transformación",Energías Renovables
+BBVA,Acciona Energía,0.16520995840506061,Bancos Y Cajas De Ahorro,Energías Renovables
+Banco Sabadell,Acciona Energía,0.10311281730961182,Bancos Y Cajas De Ahorro,Energías Renovables
+Bankinter,Acciona Energía,0.10034770216142141,Bancos Y Cajas De Ahorro,Energías Renovables
+CaixaBank,Acciona Energía,0.11621116167401684,Bancos Y Cajas De Ahorro,Energías Renovables
+Cellnex Telecom,Acciona Energía,0.3552421337965338,Telecomunicaciones Y Otros,Energías Renovables
+Enagás,Acciona Energía,0.29926797823260143,Electricidad Y Gas,Energías Renovables
+Endesa,Acciona Energía,0.37510765311533234,Electricidad Y Gas,Energías Renovables
+Ferrovial,Acciona Energía,0.26100980618652425,Construcción,Energías Renovables
+Fluidra,Acciona Energía,0.24363138908134957,Ingeniería Y Otros,Energías Renovables
+Grifols,Acciona Energía,0.18419478621439667,Productos Farmacéuticos Y Biotecnología,Energías Renovables
+Iberdrola,Acciona Energía,0.4535781039394985,Electricidad Y Gas,Energías Renovables
+Inditex,Acciona Energía,0.1534461058714318,"Textil, Vestido Y Calzado",Energías Renovables
+Indra,Acciona Energía,0.11069305580373533,Electrónica Y Software,Energías Renovables
+Inmobiliaria Colonial,Acciona Energía,0.34968934465615836,Socimi,Energías Renovables
+International Airlines Group,Acciona Energía,0.1846514219127486,Transporte Y Distribución,Energías Renovables
+Laboratorios Rovi,Acciona Energía,0.1348789198757573,Productos Farmacéuticos Y Biotecnología,Energías Renovables
+Logista,Acciona Energía,0.16008254571893601,Transporte Y Distribución,Energías Renovables
+MAPFRE,Acciona Energía,0.1951789667766037,Seguros,Energías Renovables
+Meliá Hotels International,Acciona Energía,0.1841163274756893,"Ocio, Turismo Y Hostelería",Energías Renovables
+Merlin Properties,Acciona Energía,0.34745445066083985,Socimi,Energías Renovables
+Naturgy,Acciona Energía,0.32194317771597464,Electricidad Y Gas,Energías Renovables
+Redeia,Acciona Energía,0.33411412695002407,Electricidad Y Gas,Energías Renovables
+Repsol,Acciona Energía,0.10118578737490096,Petróleo,Energías Renovables
+Sacyr,Acciona Energía,0.30929740545117296,Construcción,Energías Renovables
+Santander,Acciona Energía,0.19092804620031226,Bancos Y Cajas De Ahorro,Energías Renovables
+Solaria,Acciona Energía,0.5653324487249607,Energías Renovables,Energías Renovables
+Telefónica,Acciona Energía,0.11058329350415713,Telecomunicaciones Y Otros,Energías Renovables
+Unicaja,Acciona Energía,0.10135704501118721,Bancos Y Cajas De Ahorro,Energías Renovables
+ACS,Acerinox,0.41444207519375226,Construcción,"Mineral, Metales Y Transformación"
+Acciona,Acerinox,0.2658971578012327,Construcción,"Mineral, Metales Y Transformación"
+Acciona Energía,Acerinox,0.18161343585331202,Energías Renovables,"Mineral, Metales Y Transformación"
+Aena,Acerinox,0.30646415951666367,Transporte Y Distribución,"Mineral, Metales Y Transformación"
+Amadeus IT Group,Acerinox,0.3685679291540675,Electrónica Y Software,"Mineral, Metales Y Transformación"
+ArcelorMittal,Acerinox,0.744875772580699,"Mineral, Metales Y Transformación","Mineral, Metales Y Transformación"
+BBVA,Acerinox,0.4683298547422053,Bancos Y Cajas De Ahorro,"Mineral, Metales Y Transformación"
+Banco Sabadell,Acerinox,0.3814508417054854,Bancos Y Cajas De Ahorro,"Mineral, Metales Y Transformación"
+Bankinter,Acerinox,0.36868226358877026,Bancos Y Cajas De Ahorro,"Mineral, Metales Y Transformación"
+CaixaBank,Acerinox,0.3847572939552201,Bancos Y Cajas De Ahorro,"Mineral, Metales Y Transformación"
+Cellnex Telecom,Acerinox,0.14260595574327628,Telecomunicaciones Y Otros,"Mineral, Metales Y Transformación"
+Enagás,Acerinox,0.15425369198525976,Electricidad Y Gas,"Mineral, Metales Y Transformación"
+Endesa,Acerinox,0.20635715897743928,Electricidad Y Gas,"Mineral, Metales Y Transformación"
+Ferrovial,Acerinox,0.3687973630402968,Construcción,"Mineral, Metales Y Transformación"
+Fluidra,Acerinox,0.36770967809325533,Ingeniería Y Otros,"Mineral, Metales Y Transformación"
+Grifols,Acerinox,0.17683982035976054,Productos Farmacéuticos Y Biotecnología,"Mineral, Metales Y Transformación"
+Iberdrola,Acerinox,0.19231101918626395,Electricidad Y Gas,"Mineral, Metales Y Transformación"
+Inditex,Acerinox,0.3319329474147097,"Textil, Vestido Y Calzado","Mineral, Metales Y Transformación"
+Indra,Acerinox,0.2403396825030224,Electrónica Y Software,"Mineral, Metales Y Transformación"
+Inmobiliaria Colonial,Acerinox,0.3361583137976693,Socimi,"Mineral, Metales Y Transformación"
+International Airlines Group,Acerinox,0.42947136032009575,Transporte Y Distribución,"Mineral, Metales Y Transformación"
+Laboratorios Rovi,Acerinox,0.12348632257311372,Productos Farmacéuticos Y Biotecnología,"Mineral, Metales Y Transformación"
+Logista,Acerinox,0.2808940221096188,Transporte Y Distribución,"Mineral, Metales Y Transformación"
+MAPFRE,Acerinox,0.38848169170688013,Seguros,"Mineral, Metales Y Transformación"
+Meliá Hotels International,Acerinox,0.38078375282132115,"Ocio, Turismo Y Hostelería","Mineral, Metales Y Transformación"
+Merlin Properties,Acerinox,0.35121347000250647,Socimi,"Mineral, Metales Y Transformación"
+Naturgy,Acerinox,0.1572935155817701,Electricidad Y Gas,"Mineral, Metales Y Transformación"
+Redeia,Acerinox,0.0840892977667316,Electricidad Y Gas,"Mineral, Metales Y Transformación"
+Repsol,Acerinox,0.3130452869080318,Petróleo,"Mineral, Metales Y Transformación"
+Sacyr,Acerinox,0.4681234760631822,Construcción,"Mineral, Metales Y Transformación"
+Santander,Acerinox,0.49181538794970053,Bancos Y Cajas De Ahorro,"Mineral, Metales Y Transformación"
+Solaria,Acerinox,0.17929894953426667,Energías Renovables,"Mineral, Metales Y Transformación"
+Telefónica,Acerinox,0.18628674845481316,Telecomunicaciones Y Otros,"Mineral, Metales Y Transformación"
+Unicaja,Acerinox,0.39515765343174764,Bancos Y Cajas De Ahorro,"Mineral, Metales Y Transformación"
+ACS,Aena,0.4066094968440558,Construcción,Transporte Y Distribución
+Acciona,Aena,0.24816602270988947,Construcción,Transporte Y Distribución
+Acciona Energía,Aena,0.19449947239896873,Energías Renovables,Transporte Y Distribución
+Acerinox,Aena,0.30646415951666367,"Mineral, Metales Y Transformación",Transporte Y Distribución
+Amadeus IT Group,Aena,0.5008549494792379,Electrónica Y Software,Transporte Y Distribución
+ArcelorMittal,Aena,0.2680915845454594,"Mineral, Metales Y Transformación",Transporte Y Distribución
+BBVA,Aena,0.36479190407289896,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+Banco Sabadell,Aena,0.3062791620217335,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+Bankinter,Aena,0.2893061107781934,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+CaixaBank,Aena,0.29476536314189233,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+Cellnex Telecom,Aena,0.26979183785195365,Telecomunicaciones Y Otros,Transporte Y Distribución
+Enagás,Aena,0.2658861673959043,Electricidad Y Gas,Transporte Y Distribución
+Endesa,Aena,0.2960356317493748,Electricidad Y Gas,Transporte Y Distribución
+Ferrovial,Aena,0.5397587260727709,Construcción,Transporte Y Distribución
+Fluidra,Aena,0.29712136052936616,Ingeniería Y Otros,Transporte Y Distribución
+Grifols,Aena,0.2115567196087768,Productos Farmacéuticos Y Biotecnología,Transporte Y Distribución
+Iberdrola,Aena,0.3078182939016878,Electricidad Y Gas,Transporte Y Distribución
+Inditex,Aena,0.39556804838875326,"Textil, Vestido Y Calzado",Transporte Y Distribución
+Indra,Aena,0.24252572558085297,Electrónica Y Software,Transporte Y Distribución
+Inmobiliaria Colonial,Aena,0.3996435463191407,Socimi,Transporte Y Distribución
+International Airlines Group,Aena,0.5396522900692021,Transporte Y Distribución,Transporte Y Distribución
+Laboratorios Rovi,Aena,0.11587944738373351,Productos Farmacéuticos Y Biotecnología,Transporte Y Distribución
+Logista,Aena,0.285756271214014,Transporte Y Distribución,Transporte Y Distribución
+MAPFRE,Aena,0.37346661357515926,Seguros,Transporte Y Distribución
+Meliá Hotels International,Aena,0.4749982814759259,"Ocio, Turismo Y Hostelería",Transporte Y Distribución
+Merlin Properties,Aena,0.39426779312677457,Socimi,Transporte Y Distribución
+Naturgy,Aena,0.2670020193932614,Electricidad Y Gas,Transporte Y Distribución
+Redeia,Aena,0.24746517380750527,Electricidad Y Gas,Transporte Y Distribución
+Repsol,Aena,0.15005098385048624,Petróleo,Transporte Y Distribución
+Sacyr,Aena,0.4668667908567726,Construcción,Transporte Y Distribución
+Santander,Aena,0.381968811227046,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+Solaria,Aena,0.18353571834237375,Energías Renovables,Transporte Y Distribución
+Telefónica,Aena,0.26113338392874674,Telecomunicaciones Y Otros,Transporte Y Distribución
+Unicaja,Aena,0.29859097088978187,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+ACS,Amadeus IT Group,0.3992166849462551,Construcción,Electrónica Y Software
+Acciona,Amadeus IT Group,0.2662493426408046,Construcción,Electrónica Y Software
+Acciona Energía,Amadeus IT Group,0.23085152726346275,Energías Renovables,Electrónica Y Software
+Acerinox,Amadeus IT Group,0.3685679291540675,"Mineral, Metales Y Transformación",Electrónica Y Software
+Aena,Amadeus IT Group,0.5008549494792379,Transporte Y Distribución,Electrónica Y Software
+ArcelorMittal,Amadeus IT Group,0.324308771263349,"Mineral, Metales Y Transformación",Electrónica Y Software
+BBVA,Amadeus IT Group,0.38527724983680794,Bancos Y Cajas De Ahorro,Electrónica Y Software
+Banco Sabadell,Amadeus IT Group,0.324435988664536,Bancos Y Cajas De Ahorro,Electrónica Y Software
+Bankinter,Amadeus IT Group,0.32049388356045966,Bancos Y Cajas De Ahorro,Electrónica Y Software
+CaixaBank,Amadeus IT Group,0.32112320837225244,Bancos Y Cajas De Ahorro,Electrónica Y Software
+Cellnex Telecom,Amadeus IT Group,0.2598228432367755,Telecomunicaciones Y Otros,Electrónica Y Software
+Enagás,Amadeus IT Group,0.14114933311837805,Electricidad Y Gas,Electrónica Y Software
+Endesa,Amadeus IT Group,0.2294950164872348,Electricidad Y Gas,Electrónica Y Software
+Ferrovial,Amadeus IT Group,0.47300510081620417,Construcción,Electrónica Y Software
+Fluidra,Amadeus IT Group,0.33925143285025455,Ingeniería Y Otros,Electrónica Y Software
+Grifols,Amadeus IT Group,0.28158905791982025,Productos Farmacéuticos Y Biotecnología,Electrónica Y Software
+Iberdrola,Amadeus IT Group,0.27767469369975856,Electricidad Y Gas,Electrónica Y Software
+Inditex,Amadeus IT Group,0.4515640404307785,"Textil, Vestido Y Calzado",Electrónica Y Software
+Indra,Amadeus IT Group,0.31754163929773177,Electrónica Y Software,Electrónica Y Software
+Inmobiliaria Colonial,Amadeus IT Group,0.4248006245934028,Socimi,Electrónica Y Software
+International Airlines Group,Amadeus IT Group,0.558942420897344,Transporte Y Distribución,Electrónica Y Software
+Laboratorios Rovi,Amadeus IT Group,0.17885498641728323,Productos Farmacéuticos Y Biotecnología,Electrónica Y Software
+Logista,Amadeus IT Group,0.2776549524737784,Transporte Y Distribución,Electrónica Y Software
+MAPFRE,Amadeus IT Group,0.3090542634245597,Seguros,Electrónica Y Software
+Meliá Hotels International,Amadeus IT Group,0.6101988003749957,"Ocio, Turismo Y Hostelería",Electrónica Y Software
+Merlin Properties,Amadeus IT Group,0.4357317547828195,Socimi,Electrónica Y Software
+Naturgy,Amadeus IT Group,0.21949221084524795,Electricidad Y Gas,Electrónica Y Software
+Redeia,Amadeus IT Group,0.11864907542368576,Electricidad Y Gas,Electrónica Y Software
+Repsol,Amadeus IT Group,0.17555622553079864,Petróleo,Electrónica Y Software
+Sacyr,Amadeus IT Group,0.41719063017052194,Construcción,Electrónica Y Software
+Santander,Amadeus IT Group,0.42528215308385436,Bancos Y Cajas De Ahorro,Electrónica Y Software
+Solaria,Amadeus IT Group,0.1946394812310315,Energías Renovables,Electrónica Y Software
+Telefónica,Amadeus IT Group,0.19139132340876155,Telecomunicaciones Y Otros,Electrónica Y Software
+Unicaja,Amadeus IT Group,0.34252739701743923,Bancos Y Cajas De Ahorro,Electrónica Y Software
+ACS,ArcelorMittal,0.44072765863072805,Construcción,"Mineral, Metales Y Transformación"
+Acciona,ArcelorMittal,0.23235955824171026,Construcción,"Mineral, Metales Y Transformación"
+Acciona Energía,ArcelorMittal,0.15875542198557469,Energías Renovables,"Mineral, Metales Y Transformación"
+Acerinox,ArcelorMittal,0.744875772580699,"Mineral, Metales Y Transformación","Mineral, Metales Y Transformación"
+Aena,ArcelorMittal,0.2680915845454594,Transporte Y Distribución,"Mineral, Metales Y Transformación"
+Amadeus IT Group,ArcelorMittal,0.324308771263349,Electrónica Y Software,"Mineral, Metales Y Transformación"
+BBVA,ArcelorMittal,0.4954895896612328,Bancos Y Cajas De Ahorro,"Mineral, Metales Y Transformación"
+Banco Sabadell,ArcelorMittal,0.40259024123831966,Bancos Y Cajas De Ahorro,"Mineral, Metales Y Transformación"
+Bankinter,ArcelorMittal,0.36757402120814997,Bancos Y Cajas De Ahorro,"Mineral, Metales Y Transformación"
+CaixaBank,ArcelorMittal,0.39105078358631784,Bancos Y Cajas De Ahorro,"Mineral, Metales Y Transformación"
+Cellnex Telecom,ArcelorMittal,0.1199397232642008,Telecomunicaciones Y Otros,"Mineral, Metales Y Transformación"
+Enagás,ArcelorMittal,0.13404605384324741,Electricidad Y Gas,"Mineral, Metales Y Transformación"
+Endesa,ArcelorMittal,0.13560997847492923,Electricidad Y Gas,"Mineral, Metales Y Transformación"
+Ferrovial,ArcelorMittal,0.3443386056816647,Construcción,"Mineral, Metales Y Transformación"
+Fluidra,ArcelorMittal,0.37671237776458333,Ingeniería Y Otros,"Mineral, Metales Y Transformación"
+Grifols,ArcelorMittal,0.18813490590894524,Productos Farmacéuticos Y Biotecnología,"Mineral, Metales Y Transformación"
+Iberdrola,ArcelorMittal,0.13986160898611658,Electricidad Y Gas,"Mineral, Metales Y Transformación"
+Inditex,ArcelorMittal,0.3207755163462288,"Textil, Vestido Y Calzado","Mineral, Metales Y Transformación"
+Indra,ArcelorMittal,0.2315483288918065,Electrónica Y Software,"Mineral, Metales Y Transformación"
+Inmobiliaria Colonial,ArcelorMittal,0.32134322563425416,Socimi,"Mineral, Metales Y Transformación"
+International Airlines Group,ArcelorMittal,0.39376871817372155,Transporte Y Distribución,"Mineral, Metales Y Transformación"
+Laboratorios Rovi,ArcelorMittal,0.15547755535967403,Productos Farmacéuticos Y Biotecnología,"Mineral, Metales Y Transformación"
+Logista,ArcelorMittal,0.23177399686193778,Transporte Y Distribución,"Mineral, Metales Y Transformación"
+MAPFRE,ArcelorMittal,0.38384942186681353,Seguros,"Mineral, Metales Y Transformación"
+Meliá Hotels International,ArcelorMittal,0.35295000682625305,"Ocio, Turismo Y Hostelería","Mineral, Metales Y Transformación"
+Merlin Properties,ArcelorMittal,0.32607942727491046,Socimi,"Mineral, Metales Y Transformación"
+Naturgy,ArcelorMittal,0.13961156217996828,Electricidad Y Gas,"Mineral, Metales Y Transformación"
+Redeia,ArcelorMittal,0.03723534623553022,Electricidad Y Gas,"Mineral, Metales Y Transformación"
+Repsol,ArcelorMittal,0.33564172914006535,Petróleo,"Mineral, Metales Y Transformación"
+Sacyr,ArcelorMittal,0.45977999088014354,Construcción,"Mineral, Metales Y Transformación"
+Santander,ArcelorMittal,0.5359789540053475,Bancos Y Cajas De Ahorro,"Mineral, Metales Y Transformación"
+Solaria,ArcelorMittal,0.1735917879285324,Energías Renovables,"Mineral, Metales Y Transformación"
+Telefónica,ArcelorMittal,0.20165222929312845,Telecomunicaciones Y Otros,"Mineral, Metales Y Transformación"
+Unicaja,ArcelorMittal,0.38373212494720305,Bancos Y Cajas De Ahorro,"Mineral, Metales Y Transformación"
+ACS,BBVA,0.45685683598836246,Construcción,Bancos Y Cajas De Ahorro
+Acciona,BBVA,0.25153626473535057,Construcción,Bancos Y Cajas De Ahorro
+Acciona Energía,BBVA,0.16520995840506061,Energías Renovables,Bancos Y Cajas De Ahorro
+Acerinox,BBVA,0.4683298547422053,"Mineral, Metales Y Transformación",Bancos Y Cajas De Ahorro
+Aena,BBVA,0.36479190407289896,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+Amadeus IT Group,BBVA,0.38527724983680794,Electrónica Y Software,Bancos Y Cajas De Ahorro
+ArcelorMittal,BBVA,0.4954895896612328,"Mineral, Metales Y Transformación",Bancos Y Cajas De Ahorro
+Banco Sabadell,BBVA,0.6818922245963792,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Bankinter,BBVA,0.6378486133037864,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+CaixaBank,BBVA,0.6737502290815282,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Cellnex Telecom,BBVA,0.09989824170533984,Telecomunicaciones Y Otros,Bancos Y Cajas De Ahorro
+Enagás,BBVA,0.13545260603307804,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Endesa,BBVA,0.21719399357372213,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Ferrovial,BBVA,0.3917396202014846,Construcción,Bancos Y Cajas De Ahorro
+Fluidra,BBVA,0.329305082896278,Ingeniería Y Otros,Bancos Y Cajas De Ahorro
+Grifols,BBVA,0.19355294827288017,Productos Farmacéuticos Y Biotecnología,Bancos Y Cajas De Ahorro
+Iberdrola,BBVA,0.21857132828614098,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Inditex,BBVA,0.4157366629082309,"Textil, Vestido Y Calzado",Bancos Y Cajas De Ahorro
+Indra,BBVA,0.2496983830925968,Electrónica Y Software,Bancos Y Cajas De Ahorro
+Inmobiliaria Colonial,BBVA,0.3327468331434292,Socimi,Bancos Y Cajas De Ahorro
+International Airlines Group,BBVA,0.43523443977748244,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+Laboratorios Rovi,BBVA,0.157690041404098,Productos Farmacéuticos Y Biotecnología,Bancos Y Cajas De Ahorro
+Logista,BBVA,0.3364826611820244,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+MAPFRE,BBVA,0.5300219437888412,Seguros,Bancos Y Cajas De Ahorro
+Meliá Hotels International,BBVA,0.4210741356016403,"Ocio, Turismo Y Hostelería",Bancos Y Cajas De Ahorro
+Merlin Properties,BBVA,0.36286348541424795,Socimi,Bancos Y Cajas De Ahorro
+Naturgy,BBVA,0.18796357558210094,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Redeia,BBVA,0.07285205725490404,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Repsol,BBVA,0.27945316500185585,Petróleo,Bancos Y Cajas De Ahorro
+Sacyr,BBVA,0.4782459504394377,Construcción,Bancos Y Cajas De Ahorro
+Santander,BBVA,0.790216852762603,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Solaria,BBVA,0.11664822568602,Energías Renovables,Bancos Y Cajas De Ahorro
+Telefónica,BBVA,0.24717263510813636,Telecomunicaciones Y Otros,Bancos Y Cajas De Ahorro
+Unicaja,BBVA,0.6394304086704372,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+ACS,Banco Sabadell,0.3826335953917427,Construcción,Bancos Y Cajas De Ahorro
+Acciona,Banco Sabadell,0.15060099931906148,Construcción,Bancos Y Cajas De Ahorro
+Acciona Energía,Banco Sabadell,0.10311281730961182,Energías Renovables,Bancos Y Cajas De Ahorro
+Acerinox,Banco Sabadell,0.3814508417054854,"Mineral, Metales Y Transformación",Bancos Y Cajas De Ahorro
+Aena,Banco Sabadell,0.3062791620217335,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+Amadeus IT Group,Banco Sabadell,0.324435988664536,Electrónica Y Software,Bancos Y Cajas De Ahorro
+ArcelorMittal,Banco Sabadell,0.40259024123831966,"Mineral, Metales Y Transformación",Bancos Y Cajas De Ahorro
+BBVA,Banco Sabadell,0.6818922245963792,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Bankinter,Banco Sabadell,0.7480500849915864,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+CaixaBank,Banco Sabadell,0.7750187664944584,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Cellnex Telecom,Banco Sabadell,-0.005713932653499252,Telecomunicaciones Y Otros,Bancos Y Cajas De Ahorro
+Enagás,Banco Sabadell,0.0871068333155491,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Endesa,Banco Sabadell,0.16363704486835154,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Ferrovial,Banco Sabadell,0.27907052466174137,Construcción,Bancos Y Cajas De Ahorro
+Fluidra,Banco Sabadell,0.21482346516887632,Ingeniería Y Otros,Bancos Y Cajas De Ahorro
+Grifols,Banco Sabadell,0.16300863674742339,Productos Farmacéuticos Y Biotecnología,Bancos Y Cajas De Ahorro
+Iberdrola,Banco Sabadell,0.11199765092390396,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Inditex,Banco Sabadell,0.2778409897054794,"Textil, Vestido Y Calzado",Bancos Y Cajas De Ahorro
+Indra,Banco Sabadell,0.236335131452261,Electrónica Y Software,Bancos Y Cajas De Ahorro
+Inmobiliaria Colonial,Banco Sabadell,0.2316776479488107,Socimi,Bancos Y Cajas De Ahorro
+International Airlines Group,Banco Sabadell,0.39779403941250224,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+Laboratorios Rovi,Banco Sabadell,0.1247813851035085,Productos Farmacéuticos Y Biotecnología,Bancos Y Cajas De Ahorro
+Logista,Banco Sabadell,0.30912863201536134,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+MAPFRE,Banco Sabadell,0.4956409785468858,Seguros,Bancos Y Cajas De Ahorro
+Meliá Hotels International,Banco Sabadell,0.36578111356685794,"Ocio, Turismo Y Hostelería",Bancos Y Cajas De Ahorro
+Merlin Properties,Banco Sabadell,0.27370434183317194,Socimi,Bancos Y Cajas De Ahorro
+Naturgy,Banco Sabadell,0.11640603114168671,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Redeia,Banco Sabadell,0.03686411420418349,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Repsol,Banco Sabadell,0.2721541758233854,Petróleo,Bancos Y Cajas De Ahorro
+Sacyr,Banco Sabadell,0.4042044990342154,Construcción,Bancos Y Cajas De Ahorro
+Santander,Banco Sabadell,0.7109220397814858,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Solaria,Banco Sabadell,0.03261398873724253,Energías Renovables,Bancos Y Cajas De Ahorro
+Telefónica,Banco Sabadell,0.2537769248125458,Telecomunicaciones Y Otros,Bancos Y Cajas De Ahorro
+Unicaja,Banco Sabadell,0.6953929064736705,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+ACS,Bankinter,0.40211737470812914,Construcción,Bancos Y Cajas De Ahorro
+Acciona,Bankinter,0.16949710331527587,Construcción,Bancos Y Cajas De Ahorro
+Acciona Energía,Bankinter,0.10034770216142141,Energías Renovables,Bancos Y Cajas De Ahorro
+Acerinox,Bankinter,0.36868226358877026,"Mineral, Metales Y Transformación",Bancos Y Cajas De Ahorro
+Aena,Bankinter,0.2893061107781934,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+Amadeus IT Group,Bankinter,0.32049388356045966,Electrónica Y Software,Bancos Y Cajas De Ahorro
+ArcelorMittal,Bankinter,0.36757402120814997,"Mineral, Metales Y Transformación",Bancos Y Cajas De Ahorro
+BBVA,Bankinter,0.6378486133037864,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Banco Sabadell,Bankinter,0.7480500849915864,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+CaixaBank,Bankinter,0.8156670546236765,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Cellnex Telecom,Bankinter,-0.0009412401163624496,Telecomunicaciones Y Otros,Bancos Y Cajas De Ahorro
+Enagás,Bankinter,0.09528875127653058,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Endesa,Bankinter,0.19042789590040232,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Ferrovial,Bankinter,0.28484786743444745,Construcción,Bancos Y Cajas De Ahorro
+Fluidra,Bankinter,0.22274907518814,Ingeniería Y Otros,Bancos Y Cajas De Ahorro
+Grifols,Bankinter,0.13813413613567102,Productos Farmacéuticos Y Biotecnología,Bancos Y Cajas De Ahorro
+Iberdrola,Bankinter,0.1401860413891694,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Inditex,Bankinter,0.29003235550611467,"Textil, Vestido Y Calzado",Bancos Y Cajas De Ahorro
+Indra,Bankinter,0.22879100810675893,Electrónica Y Software,Bancos Y Cajas De Ahorro
+Inmobiliaria Colonial,Bankinter,0.22362928266042406,Socimi,Bancos Y Cajas De Ahorro
+International Airlines Group,Bankinter,0.3663229653581837,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+Laboratorios Rovi,Bankinter,0.12574829798112633,Productos Farmacéuticos Y Biotecnología,Bancos Y Cajas De Ahorro
+Logista,Bankinter,0.32256154417832517,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+MAPFRE,Bankinter,0.4927796846139186,Seguros,Bancos Y Cajas De Ahorro
+Meliá Hotels International,Bankinter,0.3319769863710521,"Ocio, Turismo Y Hostelería",Bancos Y Cajas De Ahorro
+Merlin Properties,Bankinter,0.27808514686821956,Socimi,Bancos Y Cajas De Ahorro
+Naturgy,Bankinter,0.1309952792009633,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Redeia,Bankinter,0.043734766284695074,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Repsol,Bankinter,0.25980449261039074,Petróleo,Bancos Y Cajas De Ahorro
+Sacyr,Bankinter,0.4040557814785478,Construcción,Bancos Y Cajas De Ahorro
+Santander,Bankinter,0.6749371840873813,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Solaria,Bankinter,0.030961244519173682,Energías Renovables,Bancos Y Cajas De Ahorro
+Telefónica,Bankinter,0.22104200870796464,Telecomunicaciones Y Otros,Bancos Y Cajas De Ahorro
+Unicaja,Bankinter,0.6961566481598095,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+ACS,CaixaBank,0.4085214367845224,Construcción,Bancos Y Cajas De Ahorro
+Acciona,CaixaBank,0.1925386999534438,Construcción,Bancos Y Cajas De Ahorro
+Acciona Energía,CaixaBank,0.11621116167401684,Energías Renovables,Bancos Y Cajas De Ahorro
+Acerinox,CaixaBank,0.3847572939552201,"Mineral, Metales Y Transformación",Bancos Y Cajas De Ahorro
+Aena,CaixaBank,0.29476536314189233,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+Amadeus IT Group,CaixaBank,0.32112320837225244,Electrónica Y Software,Bancos Y Cajas De Ahorro
+ArcelorMittal,CaixaBank,0.39105078358631784,"Mineral, Metales Y Transformación",Bancos Y Cajas De Ahorro
+BBVA,CaixaBank,0.6737502290815282,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Banco Sabadell,CaixaBank,0.7750187664944584,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Bankinter,CaixaBank,0.8156670546236765,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Cellnex Telecom,CaixaBank,-0.025516592960169684,Telecomunicaciones Y Otros,Bancos Y Cajas De Ahorro
+Enagás,CaixaBank,0.11506450863621721,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Endesa,CaixaBank,0.19035257253188034,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Ferrovial,CaixaBank,0.2794732784422198,Construcción,Bancos Y Cajas De Ahorro
+Fluidra,CaixaBank,0.21453192391435713,Ingeniería Y Otros,Bancos Y Cajas De Ahorro
+Grifols,CaixaBank,0.1383642488041429,Productos Farmacéuticos Y Biotecnología,Bancos Y Cajas De Ahorro
+Iberdrola,CaixaBank,0.16293879525649282,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Inditex,CaixaBank,0.2896046140187721,"Textil, Vestido Y Calzado",Bancos Y Cajas De Ahorro
+Indra,CaixaBank,0.23549469113990845,Electrónica Y Software,Bancos Y Cajas De Ahorro
+Inmobiliaria Colonial,CaixaBank,0.2169742247533804,Socimi,Bancos Y Cajas De Ahorro
+International Airlines Group,CaixaBank,0.3720905090880874,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+Laboratorios Rovi,CaixaBank,0.11730658039007777,Productos Farmacéuticos Y Biotecnología,Bancos Y Cajas De Ahorro
+Logista,CaixaBank,0.30440137207855866,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+MAPFRE,CaixaBank,0.49849461391722555,Seguros,Bancos Y Cajas De Ahorro
+Meliá Hotels International,CaixaBank,0.34726982245503013,"Ocio, Turismo Y Hostelería",Bancos Y Cajas De Ahorro
+Merlin Properties,CaixaBank,0.2635606803359387,Socimi,Bancos Y Cajas De Ahorro
+Naturgy,CaixaBank,0.14187456685615954,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Redeia,CaixaBank,0.05034588494441179,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Repsol,CaixaBank,0.30723286246561154,Petróleo,Bancos Y Cajas De Ahorro
+Sacyr,CaixaBank,0.4080108610405253,Construcción,Bancos Y Cajas De Ahorro
+Santander,CaixaBank,0.7222365000653277,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Solaria,CaixaBank,0.055191618236852695,Energías Renovables,Bancos Y Cajas De Ahorro
+Telefónica,CaixaBank,0.2050419452363186,Telecomunicaciones Y Otros,Bancos Y Cajas De Ahorro
+Unicaja,CaixaBank,0.7051633042567709,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+ACS,Cellnex Telecom,0.17130492481792156,Construcción,Telecomunicaciones Y Otros
+Acciona,Cellnex Telecom,0.39528990115859935,Construcción,Telecomunicaciones Y Otros
+Acciona Energía,Cellnex Telecom,0.3552421337965338,Energías Renovables,Telecomunicaciones Y Otros
+Acerinox,Cellnex Telecom,0.14260595574327628,"Mineral, Metales Y Transformación",Telecomunicaciones Y Otros
+Aena,Cellnex Telecom,0.26979183785195365,Transporte Y Distribución,Telecomunicaciones Y Otros
+Amadeus IT Group,Cellnex Telecom,0.2598228432367755,Electrónica Y Software,Telecomunicaciones Y Otros
+ArcelorMittal,Cellnex Telecom,0.1199397232642008,"Mineral, Metales Y Transformación",Telecomunicaciones Y Otros
+BBVA,Cellnex Telecom,0.09989824170533984,Bancos Y Cajas De Ahorro,Telecomunicaciones Y Otros
+Banco Sabadell,Cellnex Telecom,-0.005713932653499252,Bancos Y Cajas De Ahorro,Telecomunicaciones Y Otros
+Bankinter,Cellnex Telecom,-0.0009412401163624496,Bancos Y Cajas De Ahorro,Telecomunicaciones Y Otros
+CaixaBank,Cellnex Telecom,-0.025516592960169684,Bancos Y Cajas De Ahorro,Telecomunicaciones Y Otros
+Enagás,Cellnex Telecom,0.3291440956536217,Electricidad Y Gas,Telecomunicaciones Y Otros
+Endesa,Cellnex Telecom,0.3253354691277138,Electricidad Y Gas,Telecomunicaciones Y Otros
+Ferrovial,Cellnex Telecom,0.33740703849863846,Construcción,Telecomunicaciones Y Otros
+Fluidra,Cellnex Telecom,0.307913393400563,Ingeniería Y Otros,Telecomunicaciones Y Otros
+Grifols,Cellnex Telecom,0.1908890296960017,Productos Farmacéuticos Y Biotecnología,Telecomunicaciones Y Otros
+Iberdrola,Cellnex Telecom,0.4073324458101834,Electricidad Y Gas,Telecomunicaciones Y Otros
+Inditex,Cellnex Telecom,0.24183842689036708,"Textil, Vestido Y Calzado",Telecomunicaciones Y Otros
+Indra,Cellnex Telecom,0.11837607091544103,Electrónica Y Software,Telecomunicaciones Y Otros
+Inmobiliaria Colonial,Cellnex Telecom,0.43700316776858605,Socimi,Telecomunicaciones Y Otros
+International Airlines Group,Cellnex Telecom,0.168512940664151,Transporte Y Distribución,Telecomunicaciones Y Otros
+Laboratorios Rovi,Cellnex Telecom,0.18572188170916645,Productos Farmacéuticos Y Biotecnología,Telecomunicaciones Y Otros
+Logista,Cellnex Telecom,0.20096721380014698,Transporte Y Distribución,Telecomunicaciones Y Otros
+MAPFRE,Cellnex Telecom,0.17816887705028547,Seguros,Telecomunicaciones Y Otros
+Meliá Hotels International,Cellnex Telecom,0.19300010430097644,"Ocio, Turismo Y Hostelería",Telecomunicaciones Y Otros
+Merlin Properties,Cellnex Telecom,0.3746027181616214,Socimi,Telecomunicaciones Y Otros
+Naturgy,Cellnex Telecom,0.27762312517422544,Electricidad Y Gas,Telecomunicaciones Y Otros
+Redeia,Cellnex Telecom,0.3689829515838021,Electricidad Y Gas,Telecomunicaciones Y Otros
+Repsol,Cellnex Telecom,-0.024711098216031097,Petróleo,Telecomunicaciones Y Otros
+Sacyr,Cellnex Telecom,0.2557676178063788,Construcción,Telecomunicaciones Y Otros
+Santander,Cellnex Telecom,0.0932365868848111,Bancos Y Cajas De Ahorro,Telecomunicaciones Y Otros
+Solaria,Cellnex Telecom,0.3031743779813287,Energías Renovables,Telecomunicaciones Y Otros
+Telefónica,Cellnex Telecom,0.2321588058809466,Telecomunicaciones Y Otros,Telecomunicaciones Y Otros
+Unicaja,Cellnex Telecom,0.00829260970312036,Bancos Y Cajas De Ahorro,Telecomunicaciones Y Otros
+ACS,Enagás,0.21739841501329785,Construcción,Electricidad Y Gas
+Acciona,Enagás,0.4319310551526293,Construcción,Electricidad Y Gas
+Acciona Energía,Enagás,0.29926797823260143,Energías Renovables,Electricidad Y Gas
+Acerinox,Enagás,0.15425369198525976,"Mineral, Metales Y Transformación",Electricidad Y Gas
+Aena,Enagás,0.2658861673959043,Transporte Y Distribución,Electricidad Y Gas
+Amadeus IT Group,Enagás,0.14114933311837805,Electrónica Y Software,Electricidad Y Gas
+ArcelorMittal,Enagás,0.13404605384324741,"Mineral, Metales Y Transformación",Electricidad Y Gas
+BBVA,Enagás,0.13545260603307804,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Banco Sabadell,Enagás,0.0871068333155491,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Bankinter,Enagás,0.09528875127653058,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+CaixaBank,Enagás,0.11506450863621721,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Cellnex Telecom,Enagás,0.3291440956536217,Telecomunicaciones Y Otros,Electricidad Y Gas
+Endesa,Enagás,0.5081365125181645,Electricidad Y Gas,Electricidad Y Gas
+Ferrovial,Enagás,0.3022591006667106,Construcción,Electricidad Y Gas
+Fluidra,Enagás,0.1404777496073254,Ingeniería Y Otros,Electricidad Y Gas
+Grifols,Enagás,0.13298043549015232,Productos Farmacéuticos Y Biotecnología,Electricidad Y Gas
+Iberdrola,Enagás,0.48936162124029087,Electricidad Y Gas,Electricidad Y Gas
+Inditex,Enagás,0.17808113607995635,"Textil, Vestido Y Calzado",Electricidad Y Gas
+Indra,Enagás,0.11511403441720211,Electrónica Y Software,Electricidad Y Gas
+Inmobiliaria Colonial,Enagás,0.36207751201192356,Socimi,Electricidad Y Gas
+International Airlines Group,Enagás,0.12379387537790254,Transporte Y Distribución,Electricidad Y Gas
+Laboratorios Rovi,Enagás,0.0852897837518986,Productos Farmacéuticos Y Biotecnología,Electricidad Y Gas
+Logista,Enagás,0.22166282116537928,Transporte Y Distribución,Electricidad Y Gas
+MAPFRE,Enagás,0.26597646342798187,Seguros,Electricidad Y Gas
+Meliá Hotels International,Enagás,0.13814857450442575,"Ocio, Turismo Y Hostelería",Electricidad Y Gas
+Merlin Properties,Enagás,0.3435812144200912,Socimi,Electricidad Y Gas
+Naturgy,Enagás,0.5182922985056871,Electricidad Y Gas,Electricidad Y Gas
+Redeia,Enagás,0.6544628499338097,Electricidad Y Gas,Electricidad Y Gas
+Repsol,Enagás,0.2020382182234998,Petróleo,Electricidad Y Gas
+Sacyr,Enagás,0.2880570123749209,Construcción,Electricidad Y Gas
+Santander,Enagás,0.16452051661761402,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Solaria,Enagás,0.28662486242289537,Energías Renovables,Electricidad Y Gas
+Telefónica,Enagás,0.32826921325674513,Telecomunicaciones Y Otros,Electricidad Y Gas
+Unicaja,Enagás,0.09212052932048798,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+ACS,Endesa,0.30034884532717215,Construcción,Electricidad Y Gas
+Acciona,Endesa,0.4793378757461483,Construcción,Electricidad Y Gas
+Acciona Energía,Endesa,0.37510765311533234,Energías Renovables,Electricidad Y Gas
+Acerinox,Endesa,0.20635715897743928,"Mineral, Metales Y Transformación",Electricidad Y Gas
+Aena,Endesa,0.2960356317493748,Transporte Y Distribución,Electricidad Y Gas
+Amadeus IT Group,Endesa,0.2294950164872348,Electrónica Y Software,Electricidad Y Gas
+ArcelorMittal,Endesa,0.13560997847492923,"Mineral, Metales Y Transformación",Electricidad Y Gas
+BBVA,Endesa,0.21719399357372213,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Banco Sabadell,Endesa,0.16363704486835154,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Bankinter,Endesa,0.19042789590040232,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+CaixaBank,Endesa,0.19035257253188034,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Cellnex Telecom,Endesa,0.3253354691277138,Telecomunicaciones Y Otros,Electricidad Y Gas
+Enagás,Endesa,0.5081365125181645,Electricidad Y Gas,Electricidad Y Gas
+Ferrovial,Endesa,0.36269226881349576,Construcción,Electricidad Y Gas
+Fluidra,Endesa,0.22677122420014836,Ingeniería Y Otros,Electricidad Y Gas
+Grifols,Endesa,0.10292498481570311,Productos Farmacéuticos Y Biotecnología,Electricidad Y Gas
+Iberdrola,Endesa,0.717348605440384,Electricidad Y Gas,Electricidad Y Gas
+Inditex,Endesa,0.24953190091496735,"Textil, Vestido Y Calzado",Electricidad Y Gas
+Indra,Endesa,0.13307016384397374,Electrónica Y Software,Electricidad Y Gas
+Inmobiliaria Colonial,Endesa,0.35030347044401206,Socimi,Electricidad Y Gas
+International Airlines Group,Endesa,0.20427837191589213,Transporte Y Distribución,Electricidad Y Gas
+Laboratorios Rovi,Endesa,0.13564262875609695,Productos Farmacéuticos Y Biotecnología,Electricidad Y Gas
+Logista,Endesa,0.22216796726620086,Transporte Y Distribución,Electricidad Y Gas
+MAPFRE,Endesa,0.30490211985398036,Seguros,Electricidad Y Gas
+Meliá Hotels International,Endesa,0.19691413714434242,"Ocio, Turismo Y Hostelería",Electricidad Y Gas
+Merlin Properties,Endesa,0.35078375057427885,Socimi,Electricidad Y Gas
+Naturgy,Endesa,0.4837066321346117,Electricidad Y Gas,Electricidad Y Gas
+Redeia,Endesa,0.5507687349973713,Electricidad Y Gas,Electricidad Y Gas
+Repsol,Endesa,0.11807703972708457,Petróleo,Electricidad Y Gas
+Sacyr,Endesa,0.33048341418097443,Construcción,Electricidad Y Gas
+Santander,Endesa,0.2467111889802476,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Solaria,Endesa,0.3569494528896216,Energías Renovables,Electricidad Y Gas
+Telefónica,Endesa,0.26104295729570204,Telecomunicaciones Y Otros,Electricidad Y Gas
+Unicaja,Endesa,0.17412281000138102,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+ACS,Ferrovial,0.5799353357878909,Construcción,Construcción
+Acciona,Ferrovial,0.3574513202066899,Construcción,Construcción
+Acciona Energía,Ferrovial,0.26100980618652425,Energías Renovables,Construcción
+Acerinox,Ferrovial,0.3687973630402968,"Mineral, Metales Y Transformación",Construcción
+Aena,Ferrovial,0.5397587260727709,Transporte Y Distribución,Construcción
+Amadeus IT Group,Ferrovial,0.47300510081620417,Electrónica Y Software,Construcción
+ArcelorMittal,Ferrovial,0.3443386056816647,"Mineral, Metales Y Transformación",Construcción
+BBVA,Ferrovial,0.3917396202014846,Bancos Y Cajas De Ahorro,Construcción
+Banco Sabadell,Ferrovial,0.27907052466174137,Bancos Y Cajas De Ahorro,Construcción
+Bankinter,Ferrovial,0.28484786743444745,Bancos Y Cajas De Ahorro,Construcción
+CaixaBank,Ferrovial,0.2794732784422198,Bancos Y Cajas De Ahorro,Construcción
+Cellnex Telecom,Ferrovial,0.33740703849863846,Telecomunicaciones Y Otros,Construcción
+Enagás,Ferrovial,0.3022591006667106,Electricidad Y Gas,Construcción
+Endesa,Ferrovial,0.36269226881349576,Electricidad Y Gas,Construcción
+Fluidra,Ferrovial,0.35354517825359333,Ingeniería Y Otros,Construcción
+Grifols,Ferrovial,0.1884292619701142,Productos Farmacéuticos Y Biotecnología,Construcción
+Iberdrola,Ferrovial,0.3800224167212628,Electricidad Y Gas,Construcción
+Inditex,Ferrovial,0.4471073506524297,"Textil, Vestido Y Calzado",Construcción
+Indra,Ferrovial,0.3034874521705991,Electrónica Y Software,Construcción
+Inmobiliaria Colonial,Ferrovial,0.4156692211125218,Socimi,Construcción
+International Airlines Group,Ferrovial,0.46169307163663226,Transporte Y Distribución,Construcción
+Laboratorios Rovi,Ferrovial,0.194761218660283,Productos Farmacéuticos Y Biotecnología,Construcción
+Logista,Ferrovial,0.3204386918843545,Transporte Y Distribución,Construcción
+MAPFRE,Ferrovial,0.39739431486988575,Seguros,Construcción
+Meliá Hotels International,Ferrovial,0.4036484207172715,"Ocio, Turismo Y Hostelería",Construcción
+Merlin Properties,Ferrovial,0.43720732268161944,Socimi,Construcción
+Naturgy,Ferrovial,0.298090566753894,Electricidad Y Gas,Construcción
+Redeia,Ferrovial,0.27684679747719226,Electricidad Y Gas,Construcción
+Repsol,Ferrovial,0.20714467605401463,Petróleo,Construcción
+Sacyr,Ferrovial,0.5554678038287736,Construcción,Construcción
+Santander,Ferrovial,0.41458286793799753,Bancos Y Cajas De Ahorro,Construcción
+Solaria,Ferrovial,0.2601201920177159,Energías Renovables,Construcción
+Telefónica,Ferrovial,0.2159292291576244,Telecomunicaciones Y Otros,Construcción
+Unicaja,Ferrovial,0.2796739350292639,Bancos Y Cajas De Ahorro,Construcción
+ACS,Fluidra,0.31039401526051275,Construcción,Ingeniería Y Otros
+Acciona,Fluidra,0.281411787709917,Construcción,Ingeniería Y Otros
+Acciona Energía,Fluidra,0.24363138908134957,Energías Renovables,Ingeniería Y Otros
+Acerinox,Fluidra,0.36770967809325533,"Mineral, Metales Y Transformación",Ingeniería Y Otros
+Aena,Fluidra,0.29712136052936616,Transporte Y Distribución,Ingeniería Y Otros
+Amadeus IT Group,Fluidra,0.33925143285025455,Electrónica Y Software,Ingeniería Y Otros
+ArcelorMittal,Fluidra,0.37671237776458333,"Mineral, Metales Y Transformación",Ingeniería Y Otros
+BBVA,Fluidra,0.329305082896278,Bancos Y Cajas De Ahorro,Ingeniería Y Otros
+Banco Sabadell,Fluidra,0.21482346516887632,Bancos Y Cajas De Ahorro,Ingeniería Y Otros
+Bankinter,Fluidra,0.22274907518814,Bancos Y Cajas De Ahorro,Ingeniería Y Otros
+CaixaBank,Fluidra,0.21453192391435713,Bancos Y Cajas De Ahorro,Ingeniería Y Otros
+Cellnex Telecom,Fluidra,0.307913393400563,Telecomunicaciones Y Otros,Ingeniería Y Otros
+Enagás,Fluidra,0.1404777496073254,Electricidad Y Gas,Ingeniería Y Otros
+Endesa,Fluidra,0.22677122420014836,Electricidad Y Gas,Ingeniería Y Otros
+Ferrovial,Fluidra,0.35354517825359333,Construcción,Ingeniería Y Otros
+Grifols,Fluidra,0.2118295398539061,Productos Farmacéuticos Y Biotecnología,Ingeniería Y Otros
+Iberdrola,Fluidra,0.2354635588054653,Electricidad Y Gas,Ingeniería Y Otros
+Inditex,Fluidra,0.3199540979202358,"Textil, Vestido Y Calzado",Ingeniería Y Otros
+Indra,Fluidra,0.20207535727975795,Electrónica Y Software,Ingeniería Y Otros
+Inmobiliaria Colonial,Fluidra,0.38872312724546343,Socimi,Ingeniería Y Otros
+International Airlines Group,Fluidra,0.351842847220837,Transporte Y Distribución,Ingeniería Y Otros
+Laboratorios Rovi,Fluidra,0.2400498500439306,Productos Farmacéuticos Y Biotecnología,Ingeniería Y Otros
+Logista,Fluidra,0.22619149458922863,Transporte Y Distribución,Ingeniería Y Otros
+MAPFRE,Fluidra,0.2578740911066725,Seguros,Ingeniería Y Otros
+Meliá Hotels International,Fluidra,0.3326137632306632,"Ocio, Turismo Y Hostelería",Ingeniería Y Otros
+Merlin Properties,Fluidra,0.3664054501407352,Socimi,Ingeniería Y Otros
+Naturgy,Fluidra,0.12264647176075832,Electricidad Y Gas,Ingeniería Y Otros
+Redeia,Fluidra,0.16244147634724285,Electricidad Y Gas,Ingeniería Y Otros
+Repsol,Fluidra,0.12096771401325108,Petróleo,Ingeniería Y Otros
+Sacyr,Fluidra,0.34767265016299737,Construcción,Ingeniería Y Otros
+Santander,Fluidra,0.3511985222647692,Bancos Y Cajas De Ahorro,Ingeniería Y Otros
+Solaria,Fluidra,0.2320815567057387,Energías Renovables,Ingeniería Y Otros
+Telefónica,Fluidra,0.12938968698420358,Telecomunicaciones Y Otros,Ingeniería Y Otros
+Unicaja,Fluidra,0.21369327290863846,Bancos Y Cajas De Ahorro,Ingeniería Y Otros
+ACS,Grifols,0.15217396334622216,Construcción,Productos Farmacéuticos Y Biotecnología
+Acciona,Grifols,0.18217526587318486,Construcción,Productos Farmacéuticos Y Biotecnología
+Acciona Energía,Grifols,0.18419478621439667,Energías Renovables,Productos Farmacéuticos Y Biotecnología
+Acerinox,Grifols,0.17683982035976054,"Mineral, Metales Y Transformación",Productos Farmacéuticos Y Biotecnología
+Aena,Grifols,0.2115567196087768,Transporte Y Distribución,Productos Farmacéuticos Y Biotecnología
+Amadeus IT Group,Grifols,0.28158905791982025,Electrónica Y Software,Productos Farmacéuticos Y Biotecnología
+ArcelorMittal,Grifols,0.18813490590894524,"Mineral, Metales Y Transformación",Productos Farmacéuticos Y Biotecnología
+BBVA,Grifols,0.19355294827288017,Bancos Y Cajas De Ahorro,Productos Farmacéuticos Y Biotecnología
+Banco Sabadell,Grifols,0.16300863674742339,Bancos Y Cajas De Ahorro,Productos Farmacéuticos Y Biotecnología
+Bankinter,Grifols,0.13813413613567102,Bancos Y Cajas De Ahorro,Productos Farmacéuticos Y Biotecnología
+CaixaBank,Grifols,0.1383642488041429,Bancos Y Cajas De Ahorro,Productos Farmacéuticos Y Biotecnología
+Cellnex Telecom,Grifols,0.1908890296960017,Telecomunicaciones Y Otros,Productos Farmacéuticos Y Biotecnología
+Enagás,Grifols,0.13298043549015232,Electricidad Y Gas,Productos Farmacéuticos Y Biotecnología
+Endesa,Grifols,0.10292498481570311,Electricidad Y Gas,Productos Farmacéuticos Y Biotecnología
+Ferrovial,Grifols,0.1884292619701142,Construcción,Productos Farmacéuticos Y Biotecnología
+Fluidra,Grifols,0.2118295398539061,Ingeniería Y Otros,Productos Farmacéuticos Y Biotecnología
+Iberdrola,Grifols,0.16250282098987723,Electricidad Y Gas,Productos Farmacéuticos Y Biotecnología
+Inditex,Grifols,0.17153912300886193,"Textil, Vestido Y Calzado",Productos Farmacéuticos Y Biotecnología
+Indra,Grifols,0.13921944881069553,Electrónica Y Software,Productos Farmacéuticos Y Biotecnología
+Inmobiliaria Colonial,Grifols,0.2889257083182367,Socimi,Productos Farmacéuticos Y Biotecnología
+International Airlines Group,Grifols,0.2532979189812126,Transporte Y Distribución,Productos Farmacéuticos Y Biotecnología
+Laboratorios Rovi,Grifols,0.15160453194306886,Productos Farmacéuticos Y Biotecnología,Productos Farmacéuticos Y Biotecnología
+Logista,Grifols,0.1484081019987361,Transporte Y Distribución,Productos Farmacéuticos Y Biotecnología
+MAPFRE,Grifols,0.15080589502720343,Seguros,Productos Farmacéuticos Y Biotecnología
+Meliá Hotels International,Grifols,0.248496787576743,"Ocio, Turismo Y Hostelería",Productos Farmacéuticos Y Biotecnología
+Merlin Properties,Grifols,0.24118384433600948,Socimi,Productos Farmacéuticos Y Biotecnología
+Naturgy,Grifols,0.14166853200198293,Electricidad Y Gas,Productos Farmacéuticos Y Biotecnología
+Redeia,Grifols,0.12227269030418358,Electricidad Y Gas,Productos Farmacéuticos Y Biotecnología
+Repsol,Grifols,0.08410022496907266,Petróleo,Productos Farmacéuticos Y Biotecnología
+Sacyr,Grifols,0.21826059995060676,Construcción,Productos Farmacéuticos Y Biotecnología
+Santander,Grifols,0.22213272424132008,Bancos Y Cajas De Ahorro,Productos Farmacéuticos Y Biotecnología
+Solaria,Grifols,0.23039641056001678,Energías Renovables,Productos Farmacéuticos Y Biotecnología
+Telefónica,Grifols,0.14290831270062632,Telecomunicaciones Y Otros,Productos Farmacéuticos Y Biotecnología
+Unicaja,Grifols,0.18488265087660732,Bancos Y Cajas De Ahorro,Productos Farmacéuticos Y Biotecnología
+ACS,Iberdrola,0.2967497852297815,Construcción,Electricidad Y Gas
+Acciona,Iberdrola,0.5425582491833555,Construcción,Electricidad Y Gas
+Acciona Energía,Iberdrola,0.4535781039394985,Energías Renovables,Electricidad Y Gas
+Acerinox,Iberdrola,0.19231101918626395,"Mineral, Metales Y Transformación",Electricidad Y Gas
+Aena,Iberdrola,0.3078182939016878,Transporte Y Distribución,Electricidad Y Gas
+Amadeus IT Group,Iberdrola,0.27767469369975856,Electrónica Y Software,Electricidad Y Gas
+ArcelorMittal,Iberdrola,0.13986160898611658,"Mineral, Metales Y Transformación",Electricidad Y Gas
+BBVA,Iberdrola,0.21857132828614098,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Banco Sabadell,Iberdrola,0.11199765092390396,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Bankinter,Iberdrola,0.1401860413891694,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+CaixaBank,Iberdrola,0.16293879525649282,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Cellnex Telecom,Iberdrola,0.4073324458101834,Telecomunicaciones Y Otros,Electricidad Y Gas
+Enagás,Iberdrola,0.48936162124029087,Electricidad Y Gas,Electricidad Y Gas
+Endesa,Iberdrola,0.717348605440384,Electricidad Y Gas,Electricidad Y Gas
+Ferrovial,Iberdrola,0.3800224167212628,Construcción,Electricidad Y Gas
+Fluidra,Iberdrola,0.2354635588054653,Ingeniería Y Otros,Electricidad Y Gas
+Grifols,Iberdrola,0.16250282098987723,Productos Farmacéuticos Y Biotecnología,Electricidad Y Gas
+Inditex,Iberdrola,0.27736539290074996,"Textil, Vestido Y Calzado",Electricidad Y Gas
+Indra,Iberdrola,0.1441105963393684,Electrónica Y Software,Electricidad Y Gas
+Inmobiliaria Colonial,Iberdrola,0.38300090501681755,Socimi,Electricidad Y Gas
+International Airlines Group,Iberdrola,0.21484809290873375,Transporte Y Distribución,Electricidad Y Gas
+Laboratorios Rovi,Iberdrola,0.16360560205256572,Productos Farmacéuticos Y Biotecnología,Electricidad Y Gas
+Logista,Iberdrola,0.24708202830672688,Transporte Y Distribución,Electricidad Y Gas
+MAPFRE,Iberdrola,0.2852924137302934,Seguros,Electricidad Y Gas
+Meliá Hotels International,Iberdrola,0.21851862793913177,"Ocio, Turismo Y Hostelería",Electricidad Y Gas
+Merlin Properties,Iberdrola,0.36708421968101085,Socimi,Electricidad Y Gas
+Naturgy,Iberdrola,0.4683111628197841,Electricidad Y Gas,Electricidad Y Gas
+Redeia,Iberdrola,0.5463279508050715,Electricidad Y Gas,Electricidad Y Gas
+Repsol,Iberdrola,0.08678824913807369,Petróleo,Electricidad Y Gas
+Sacyr,Iberdrola,0.3513297147042238,Construcción,Electricidad Y Gas
+Santander,Iberdrola,0.23332091437336866,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Solaria,Iberdrola,0.43018081669604885,Energías Renovables,Electricidad Y Gas
+Telefónica,Iberdrola,0.2632736001770043,Telecomunicaciones Y Otros,Electricidad Y Gas
+Unicaja,Iberdrola,0.11704414339055376,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+ACS,Inditex,0.41254363295226515,Construcción,"Textil, Vestido Y Calzado"
+Acciona,Inditex,0.239442358613289,Construcción,"Textil, Vestido Y Calzado"
+Acciona Energía,Inditex,0.1534461058714318,Energías Renovables,"Textil, Vestido Y Calzado"
+Acerinox,Inditex,0.3319329474147097,"Mineral, Metales Y Transformación","Textil, Vestido Y Calzado"
+Aena,Inditex,0.39556804838875326,Transporte Y Distribución,"Textil, Vestido Y Calzado"
+Amadeus IT Group,Inditex,0.4515640404307785,Electrónica Y Software,"Textil, Vestido Y Calzado"
+ArcelorMittal,Inditex,0.3207755163462288,"Mineral, Metales Y Transformación","Textil, Vestido Y Calzado"
+BBVA,Inditex,0.4157366629082309,Bancos Y Cajas De Ahorro,"Textil, Vestido Y Calzado"
+Banco Sabadell,Inditex,0.2778409897054794,Bancos Y Cajas De Ahorro,"Textil, Vestido Y Calzado"
+Bankinter,Inditex,0.29003235550611467,Bancos Y Cajas De Ahorro,"Textil, Vestido Y Calzado"
+CaixaBank,Inditex,0.2896046140187721,Bancos Y Cajas De Ahorro,"Textil, Vestido Y Calzado"
+Cellnex Telecom,Inditex,0.24183842689036708,Telecomunicaciones Y Otros,"Textil, Vestido Y Calzado"
+Enagás,Inditex,0.17808113607995635,Electricidad Y Gas,"Textil, Vestido Y Calzado"
+Endesa,Inditex,0.24953190091496735,Electricidad Y Gas,"Textil, Vestido Y Calzado"
+Ferrovial,Inditex,0.4471073506524297,Construcción,"Textil, Vestido Y Calzado"
+Fluidra,Inditex,0.3199540979202358,Ingeniería Y Otros,"Textil, Vestido Y Calzado"
+Grifols,Inditex,0.17153912300886193,Productos Farmacéuticos Y Biotecnología,"Textil, Vestido Y Calzado"
+Iberdrola,Inditex,0.27736539290074996,Electricidad Y Gas,"Textil, Vestido Y Calzado"
+Indra,Inditex,0.21391431484773657,Electrónica Y Software,"Textil, Vestido Y Calzado"
+Inmobiliaria Colonial,Inditex,0.36651679706408213,Socimi,"Textil, Vestido Y Calzado"
+International Airlines Group,Inditex,0.43134279501939476,Transporte Y Distribución,"Textil, Vestido Y Calzado"
+Laboratorios Rovi,Inditex,0.1752005165638565,Productos Farmacéuticos Y Biotecnología,"Textil, Vestido Y Calzado"
+Logista,Inditex,0.2962146960580909,Transporte Y Distribución,"Textil, Vestido Y Calzado"
+MAPFRE,Inditex,0.3209206132528679,Seguros,"Textil, Vestido Y Calzado"
+Meliá Hotels International,Inditex,0.40419873696477493,"Ocio, Turismo Y Hostelería","Textil, Vestido Y Calzado"
+Merlin Properties,Inditex,0.3502873238209686,Socimi,"Textil, Vestido Y Calzado"
+Naturgy,Inditex,0.18338649314141775,Electricidad Y Gas,"Textil, Vestido Y Calzado"
+Redeia,Inditex,0.1410723740153747,Electricidad Y Gas,"Textil, Vestido Y Calzado"
+Repsol,Inditex,0.20587378818311874,Petróleo,"Textil, Vestido Y Calzado"
+Sacyr,Inditex,0.41289288046812334,Construcción,"Textil, Vestido Y Calzado"
+Santander,Inditex,0.4172245818190057,Bancos Y Cajas De Ahorro,"Textil, Vestido Y Calzado"
+Solaria,Inditex,0.1530894355178689,Energías Renovables,"Textil, Vestido Y Calzado"
+Telefónica,Inditex,0.22668424132168474,Telecomunicaciones Y Otros,"Textil, Vestido Y Calzado"
+Unicaja,Inditex,0.2856450208567294,Bancos Y Cajas De Ahorro,"Textil, Vestido Y Calzado"
+ACS,Indra,0.33097631693406043,Construcción,Electrónica Y Software
+Acciona,Indra,0.1595288104708355,Construcción,Electrónica Y Software
+Acciona Energía,Indra,0.11069305580373533,Energías Renovables,Electrónica Y Software
+Acerinox,Indra,0.2403396825030224,"Mineral, Metales Y Transformación",Electrónica Y Software
+Aena,Indra,0.24252572558085297,Transporte Y Distribución,Electrónica Y Software
+Amadeus IT Group,Indra,0.31754163929773177,Electrónica Y Software,Electrónica Y Software
+ArcelorMittal,Indra,0.2315483288918065,"Mineral, Metales Y Transformación",Electrónica Y Software
+BBVA,Indra,0.2496983830925968,Bancos Y Cajas De Ahorro,Electrónica Y Software
+Banco Sabadell,Indra,0.236335131452261,Bancos Y Cajas De Ahorro,Electrónica Y Software
+Bankinter,Indra,0.22879100810675893,Bancos Y Cajas De Ahorro,Electrónica Y Software
+CaixaBank,Indra,0.23549469113990845,Bancos Y Cajas De Ahorro,Electrónica Y Software
+Cellnex Telecom,Indra,0.11837607091544103,Telecomunicaciones Y Otros,Electrónica Y Software
+Enagás,Indra,0.11511403441720211,Electricidad Y Gas,Electrónica Y Software
+Endesa,Indra,0.13307016384397374,Electricidad Y Gas,Electrónica Y Software
+Ferrovial,Indra,0.3034874521705991,Construcción,Electrónica Y Software
+Fluidra,Indra,0.20207535727975795,Ingeniería Y Otros,Electrónica Y Software
+Grifols,Indra,0.13921944881069553,Productos Farmacéuticos Y Biotecnología,Electrónica Y Software
+Iberdrola,Indra,0.1441105963393684,Electricidad Y Gas,Electrónica Y Software
+Inditex,Indra,0.21391431484773657,"Textil, Vestido Y Calzado",Electrónica Y Software
+Inmobiliaria Colonial,Indra,0.19069835073289418,Socimi,Electrónica Y Software
+International Airlines Group,Indra,0.2523960247411436,Transporte Y Distribución,Electrónica Y Software
+Laboratorios Rovi,Indra,0.1973101351201766,Productos Farmacéuticos Y Biotecnología,Electrónica Y Software
+Logista,Indra,0.21066682548409343,Transporte Y Distribución,Electrónica Y Software
+MAPFRE,Indra,0.2710603372853922,Seguros,Electrónica Y Software
+Meliá Hotels International,Indra,0.27178956671227056,"Ocio, Turismo Y Hostelería",Electrónica Y Software
+Merlin Properties,Indra,0.20706010403468345,Socimi,Electrónica Y Software
+Naturgy,Indra,0.08433351054422566,Electricidad Y Gas,Electrónica Y Software
+Redeia,Indra,0.02318488763359037,Electricidad Y Gas,Electrónica Y Software
+Repsol,Indra,0.1494941006391762,Petróleo,Electrónica Y Software
+Sacyr,Indra,0.2782319305749336,Construcción,Electrónica Y Software
+Santander,Indra,0.26445907458612766,Bancos Y Cajas De Ahorro,Electrónica Y Software
+Solaria,Indra,0.14714206707461625,Energías Renovables,Electrónica Y Software
+Telefónica,Indra,0.0897343388700067,Telecomunicaciones Y Otros,Electrónica Y Software
+Unicaja,Indra,0.22579924571441912,Bancos Y Cajas De Ahorro,Electrónica Y Software
+ACS,Inmobiliaria Colonial,0.3638624254419666,Construcción,Socimi
+Acciona,Inmobiliaria Colonial,0.4029779424698866,Construcción,Socimi
+Acciona Energía,Inmobiliaria Colonial,0.34968934465615836,Energías Renovables,Socimi
+Acerinox,Inmobiliaria Colonial,0.3361583137976693,"Mineral, Metales Y Transformación",Socimi
+Aena,Inmobiliaria Colonial,0.3996435463191407,Transporte Y Distribución,Socimi
+Amadeus IT Group,Inmobiliaria Colonial,0.4248006245934028,Electrónica Y Software,Socimi
+ArcelorMittal,Inmobiliaria Colonial,0.32134322563425416,"Mineral, Metales Y Transformación",Socimi
+BBVA,Inmobiliaria Colonial,0.3327468331434292,Bancos Y Cajas De Ahorro,Socimi
+Banco Sabadell,Inmobiliaria Colonial,0.2316776479488107,Bancos Y Cajas De Ahorro,Socimi
+Bankinter,Inmobiliaria Colonial,0.22362928266042406,Bancos Y Cajas De Ahorro,Socimi
+CaixaBank,Inmobiliaria Colonial,0.2169742247533804,Bancos Y Cajas De Ahorro,Socimi
+Cellnex Telecom,Inmobiliaria Colonial,0.43700316776858605,Telecomunicaciones Y Otros,Socimi
+Enagás,Inmobiliaria Colonial,0.36207751201192356,Electricidad Y Gas,Socimi
+Endesa,Inmobiliaria Colonial,0.35030347044401206,Electricidad Y Gas,Socimi
+Ferrovial,Inmobiliaria Colonial,0.4156692211125218,Construcción,Socimi
+Fluidra,Inmobiliaria Colonial,0.38872312724546343,Ingeniería Y Otros,Socimi
+Grifols,Inmobiliaria Colonial,0.2889257083182367,Productos Farmacéuticos Y Biotecnología,Socimi
+Iberdrola,Inmobiliaria Colonial,0.38300090501681755,Electricidad Y Gas,Socimi
+Inditex,Inmobiliaria Colonial,0.36651679706408213,"Textil, Vestido Y Calzado",Socimi
+Indra,Inmobiliaria Colonial,0.19069835073289418,Electrónica Y Software,Socimi
+International Airlines Group,Inmobiliaria Colonial,0.3854285801339195,Transporte Y Distribución,Socimi
+Laboratorios Rovi,Inmobiliaria Colonial,0.17967334468285565,Productos Farmacéuticos Y Biotecnología,Socimi
+Logista,Inmobiliaria Colonial,0.31427124919796606,Transporte Y Distribución,Socimi
+MAPFRE,Inmobiliaria Colonial,0.33725279801449004,Seguros,Socimi
+Meliá Hotels International,Inmobiliaria Colonial,0.4111283282374814,"Ocio, Turismo Y Hostelería",Socimi
+Merlin Properties,Inmobiliaria Colonial,0.794826484646547,Socimi,Socimi
+Naturgy,Inmobiliaria Colonial,0.32442751070800335,Electricidad Y Gas,Socimi
+Redeia,Inmobiliaria Colonial,0.3325171100408242,Electricidad Y Gas,Socimi
+Repsol,Inmobiliaria Colonial,0.12297232523081561,Petróleo,Socimi
+Sacyr,Inmobiliaria Colonial,0.4239727391300722,Construcción,Socimi
+Santander,Inmobiliaria Colonial,0.36099415172687865,Bancos Y Cajas De Ahorro,Socimi
+Solaria,Inmobiliaria Colonial,0.30406202770313956,Energías Renovables,Socimi
+Telefónica,Inmobiliaria Colonial,0.30135580199871514,Telecomunicaciones Y Otros,Socimi
+Unicaja,Inmobiliaria Colonial,0.2401397055786108,Bancos Y Cajas De Ahorro,Socimi
+ACS,International Airlines Group,0.44744753266010195,Construcción,Transporte Y Distribución
+Acciona,International Airlines Group,0.19613976656636184,Construcción,Transporte Y Distribución
+Acciona Energía,International Airlines Group,0.1846514219127486,Energías Renovables,Transporte Y Distribución
+Acerinox,International Airlines Group,0.42947136032009575,"Mineral, Metales Y Transformación",Transporte Y Distribución
+Aena,International Airlines Group,0.5396522900692021,Transporte Y Distribución,Transporte Y Distribución
+Amadeus IT Group,International Airlines Group,0.558942420897344,Electrónica Y Software,Transporte Y Distribución
+ArcelorMittal,International Airlines Group,0.39376871817372155,"Mineral, Metales Y Transformación",Transporte Y Distribución
+BBVA,International Airlines Group,0.43523443977748244,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+Banco Sabadell,International Airlines Group,0.39779403941250224,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+Bankinter,International Airlines Group,0.3663229653581837,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+CaixaBank,International Airlines Group,0.3720905090880874,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+Cellnex Telecom,International Airlines Group,0.168512940664151,Telecomunicaciones Y Otros,Transporte Y Distribución
+Enagás,International Airlines Group,0.12379387537790254,Electricidad Y Gas,Transporte Y Distribución
+Endesa,International Airlines Group,0.20427837191589213,Electricidad Y Gas,Transporte Y Distribución
+Ferrovial,International Airlines Group,0.46169307163663226,Construcción,Transporte Y Distribución
+Fluidra,International Airlines Group,0.351842847220837,Ingeniería Y Otros,Transporte Y Distribución
+Grifols,International Airlines Group,0.2532979189812126,Productos Farmacéuticos Y Biotecnología,Transporte Y Distribución
+Iberdrola,International Airlines Group,0.21484809290873375,Electricidad Y Gas,Transporte Y Distribución
+Inditex,International Airlines Group,0.43134279501939476,"Textil, Vestido Y Calzado",Transporte Y Distribución
+Indra,International Airlines Group,0.2523960247411436,Electrónica Y Software,Transporte Y Distribución
+Inmobiliaria Colonial,International Airlines Group,0.3854285801339195,Socimi,Transporte Y Distribución
+Laboratorios Rovi,International Airlines Group,0.10949627331073158,Productos Farmacéuticos Y Biotecnología,Transporte Y Distribución
+Logista,International Airlines Group,0.25116108975506557,Transporte Y Distribución,Transporte Y Distribución
+MAPFRE,International Airlines Group,0.38194268902060047,Seguros,Transporte Y Distribución
+Meliá Hotels International,International Airlines Group,0.6243715259130344,"Ocio, Turismo Y Hostelería",Transporte Y Distribución
+Merlin Properties,International Airlines Group,0.40633473159728106,Socimi,Transporte Y Distribución
+Naturgy,International Airlines Group,0.1728655883921853,Electricidad Y Gas,Transporte Y Distribución
+Redeia,International Airlines Group,0.09938173497400205,Electricidad Y Gas,Transporte Y Distribución
+Repsol,International Airlines Group,0.17523765817850145,Petróleo,Transporte Y Distribución
+Sacyr,International Airlines Group,0.46514150594870657,Construcción,Transporte Y Distribución
+Santander,International Airlines Group,0.4948046111934137,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+Solaria,International Airlines Group,0.12901343327161147,Energías Renovables,Transporte Y Distribución
+Telefónica,International Airlines Group,0.19180050439642735,Telecomunicaciones Y Otros,Transporte Y Distribución
+Unicaja,International Airlines Group,0.37386994670413687,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+ACS,Laboratorios Rovi,0.171658891963874,Construcción,Productos Farmacéuticos Y Biotecnología
+Acciona,Laboratorios Rovi,0.16396200315539675,Construcción,Productos Farmacéuticos Y Biotecnología
+Acciona Energía,Laboratorios Rovi,0.1348789198757573,Energías Renovables,Productos Farmacéuticos Y Biotecnología
+Acerinox,Laboratorios Rovi,0.12348632257311372,"Mineral, Metales Y Transformación",Productos Farmacéuticos Y Biotecnología
+Aena,Laboratorios Rovi,0.11587944738373351,Transporte Y Distribución,Productos Farmacéuticos Y Biotecnología
+Amadeus IT Group,Laboratorios Rovi,0.17885498641728323,Electrónica Y Software,Productos Farmacéuticos Y Biotecnología
+ArcelorMittal,Laboratorios Rovi,0.15547755535967403,"Mineral, Metales Y Transformación",Productos Farmacéuticos Y Biotecnología
+BBVA,Laboratorios Rovi,0.157690041404098,Bancos Y Cajas De Ahorro,Productos Farmacéuticos Y Biotecnología
+Banco Sabadell,Laboratorios Rovi,0.1247813851035085,Bancos Y Cajas De Ahorro,Productos Farmacéuticos Y Biotecnología
+Bankinter,Laboratorios Rovi,0.12574829798112633,Bancos Y Cajas De Ahorro,Productos Farmacéuticos Y Biotecnología
+CaixaBank,Laboratorios Rovi,0.11730658039007777,Bancos Y Cajas De Ahorro,Productos Farmacéuticos Y Biotecnología
+Cellnex Telecom,Laboratorios Rovi,0.18572188170916645,Telecomunicaciones Y Otros,Productos Farmacéuticos Y Biotecnología
+Enagás,Laboratorios Rovi,0.0852897837518986,Electricidad Y Gas,Productos Farmacéuticos Y Biotecnología
+Endesa,Laboratorios Rovi,0.13564262875609695,Electricidad Y Gas,Productos Farmacéuticos Y Biotecnología
+Ferrovial,Laboratorios Rovi,0.194761218660283,Construcción,Productos Farmacéuticos Y Biotecnología
+Fluidra,Laboratorios Rovi,0.2400498500439306,Ingeniería Y Otros,Productos Farmacéuticos Y Biotecnología
+Grifols,Laboratorios Rovi,0.15160453194306886,Productos Farmacéuticos Y Biotecnología,Productos Farmacéuticos Y Biotecnología
+Iberdrola,Laboratorios Rovi,0.16360560205256572,Electricidad Y Gas,Productos Farmacéuticos Y Biotecnología
+Inditex,Laboratorios Rovi,0.1752005165638565,"Textil, Vestido Y Calzado",Productos Farmacéuticos Y Biotecnología
+Indra,Laboratorios Rovi,0.1973101351201766,Electrónica Y Software,Productos Farmacéuticos Y Biotecnología
+Inmobiliaria Colonial,Laboratorios Rovi,0.17967334468285565,Socimi,Productos Farmacéuticos Y Biotecnología
+International Airlines Group,Laboratorios Rovi,0.10949627331073158,Transporte Y Distribución,Productos Farmacéuticos Y Biotecnología
+Logista,Laboratorios Rovi,0.20130921438120608,Transporte Y Distribución,Productos Farmacéuticos Y Biotecnología
+MAPFRE,Laboratorios Rovi,0.11007244874301692,Seguros,Productos Farmacéuticos Y Biotecnología
+Meliá Hotels International,Laboratorios Rovi,0.15781160906183353,"Ocio, Turismo Y Hostelería",Productos Farmacéuticos Y Biotecnología
+Merlin Properties,Laboratorios Rovi,0.1776011181471399,Socimi,Productos Farmacéuticos Y Biotecnología
+Naturgy,Laboratorios Rovi,0.083232034954892,Electricidad Y Gas,Productos Farmacéuticos Y Biotecnología
+Redeia,Laboratorios Rovi,0.06541418448249742,Electricidad Y Gas,Productos Farmacéuticos Y Biotecnología
+Repsol,Laboratorios Rovi,0.09646244152331658,Petróleo,Productos Farmacéuticos Y Biotecnología
+Sacyr,Laboratorios Rovi,0.18770980198513657,Construcción,Productos Farmacéuticos Y Biotecnología
+Santander,Laboratorios Rovi,0.1895739004813426,Bancos Y Cajas De Ahorro,Productos Farmacéuticos Y Biotecnología
+Solaria,Laboratorios Rovi,0.16246506723729157,Energías Renovables,Productos Farmacéuticos Y Biotecnología
+Telefónica,Laboratorios Rovi,0.08439380822548721,Telecomunicaciones Y Otros,Productos Farmacéuticos Y Biotecnología
+Unicaja,Laboratorios Rovi,0.11817202243349972,Bancos Y Cajas De Ahorro,Productos Farmacéuticos Y Biotecnología
+ACS,Logista,0.28720708001532136,Construcción,Transporte Y Distribución
+Acciona,Logista,0.239761665417026,Construcción,Transporte Y Distribución
+Acciona Energía,Logista,0.16008254571893601,Energías Renovables,Transporte Y Distribución
+Acerinox,Logista,0.2808940221096188,"Mineral, Metales Y Transformación",Transporte Y Distribución
+Aena,Logista,0.285756271214014,Transporte Y Distribución,Transporte Y Distribución
+Amadeus IT Group,Logista,0.2776549524737784,Electrónica Y Software,Transporte Y Distribución
+ArcelorMittal,Logista,0.23177399686193778,"Mineral, Metales Y Transformación",Transporte Y Distribución
+BBVA,Logista,0.3364826611820244,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+Banco Sabadell,Logista,0.30912863201536134,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+Bankinter,Logista,0.32256154417832517,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+CaixaBank,Logista,0.30440137207855866,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+Cellnex Telecom,Logista,0.20096721380014698,Telecomunicaciones Y Otros,Transporte Y Distribución
+Enagás,Logista,0.22166282116537928,Electricidad Y Gas,Transporte Y Distribución
+Endesa,Logista,0.22216796726620086,Electricidad Y Gas,Transporte Y Distribución
+Ferrovial,Logista,0.3204386918843545,Construcción,Transporte Y Distribución
+Fluidra,Logista,0.22619149458922863,Ingeniería Y Otros,Transporte Y Distribución
+Grifols,Logista,0.1484081019987361,Productos Farmacéuticos Y Biotecnología,Transporte Y Distribución
+Iberdrola,Logista,0.24708202830672688,Electricidad Y Gas,Transporte Y Distribución
+Inditex,Logista,0.2962146960580909,"Textil, Vestido Y Calzado",Transporte Y Distribución
+Indra,Logista,0.21066682548409343,Electrónica Y Software,Transporte Y Distribución
+Inmobiliaria Colonial,Logista,0.31427124919796606,Socimi,Transporte Y Distribución
+International Airlines Group,Logista,0.25116108975506557,Transporte Y Distribución,Transporte Y Distribución
+Laboratorios Rovi,Logista,0.20130921438120608,Productos Farmacéuticos Y Biotecnología,Transporte Y Distribución
+MAPFRE,Logista,0.3786768638497766,Seguros,Transporte Y Distribución
+Meliá Hotels International,Logista,0.2801346715463557,"Ocio, Turismo Y Hostelería",Transporte Y Distribución
+Merlin Properties,Logista,0.31608314672015037,Socimi,Transporte Y Distribución
+Naturgy,Logista,0.2012106267315799,Electricidad Y Gas,Transporte Y Distribución
+Redeia,Logista,0.21628746816648406,Electricidad Y Gas,Transporte Y Distribución
+Repsol,Logista,0.13862744424641277,Petróleo,Transporte Y Distribución
+Sacyr,Logista,0.36102464850708926,Construcción,Transporte Y Distribución
+Santander,Logista,0.33496168745508725,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+Solaria,Logista,0.10751186986511342,Energías Renovables,Transporte Y Distribución
+Telefónica,Logista,0.21487943533795445,Telecomunicaciones Y Otros,Transporte Y Distribución
+Unicaja,Logista,0.2914108670963445,Bancos Y Cajas De Ahorro,Transporte Y Distribución
+ACS,MAPFRE,0.43987105763099127,Construcción,Seguros
+Acciona,MAPFRE,0.28162732124474105,Construcción,Seguros
+Acciona Energía,MAPFRE,0.1951789667766037,Energías Renovables,Seguros
+Acerinox,MAPFRE,0.38848169170688013,"Mineral, Metales Y Transformación",Seguros
+Aena,MAPFRE,0.37346661357515926,Transporte Y Distribución,Seguros
+Amadeus IT Group,MAPFRE,0.3090542634245597,Electrónica Y Software,Seguros
+ArcelorMittal,MAPFRE,0.38384942186681353,"Mineral, Metales Y Transformación",Seguros
+BBVA,MAPFRE,0.5300219437888412,Bancos Y Cajas De Ahorro,Seguros
+Banco Sabadell,MAPFRE,0.4956409785468858,Bancos Y Cajas De Ahorro,Seguros
+Bankinter,MAPFRE,0.4927796846139186,Bancos Y Cajas De Ahorro,Seguros
+CaixaBank,MAPFRE,0.49849461391722555,Bancos Y Cajas De Ahorro,Seguros
+Cellnex Telecom,MAPFRE,0.17816887705028547,Telecomunicaciones Y Otros,Seguros
+Enagás,MAPFRE,0.26597646342798187,Electricidad Y Gas,Seguros
+Endesa,MAPFRE,0.30490211985398036,Electricidad Y Gas,Seguros
+Ferrovial,MAPFRE,0.39739431486988575,Construcción,Seguros
+Fluidra,MAPFRE,0.2578740911066725,Ingeniería Y Otros,Seguros
+Grifols,MAPFRE,0.15080589502720343,Productos Farmacéuticos Y Biotecnología,Seguros
+Iberdrola,MAPFRE,0.2852924137302934,Electricidad Y Gas,Seguros
+Inditex,MAPFRE,0.3209206132528679,"Textil, Vestido Y Calzado",Seguros
+Indra,MAPFRE,0.2710603372853922,Electrónica Y Software,Seguros
+Inmobiliaria Colonial,MAPFRE,0.33725279801449004,Socimi,Seguros
+International Airlines Group,MAPFRE,0.38194268902060047,Transporte Y Distribución,Seguros
+Laboratorios Rovi,MAPFRE,0.11007244874301692,Productos Farmacéuticos Y Biotecnología,Seguros
+Logista,MAPFRE,0.3786768638497766,Transporte Y Distribución,Seguros
+Meliá Hotels International,MAPFRE,0.35551237389057033,"Ocio, Turismo Y Hostelería",Seguros
+Merlin Properties,MAPFRE,0.3571610020681718,Socimi,Seguros
+Naturgy,MAPFRE,0.2363696555021496,Electricidad Y Gas,Seguros
+Redeia,MAPFRE,0.21853356185791276,Electricidad Y Gas,Seguros
+Repsol,MAPFRE,0.25065958543104816,Petróleo,Seguros
+Sacyr,MAPFRE,0.44659882645334753,Construcción,Seguros
+Santander,MAPFRE,0.569221407282791,Bancos Y Cajas De Ahorro,Seguros
+Solaria,MAPFRE,0.13294581515559112,Energías Renovables,Seguros
+Telefónica,MAPFRE,0.31772836989037134,Telecomunicaciones Y Otros,Seguros
+Unicaja,MAPFRE,0.4783630582990035,Bancos Y Cajas De Ahorro,Seguros
+ACS,Meliá Hotels International,0.4174887004364503,Construcción,"Ocio, Turismo Y Hostelería"
+Acciona,Meliá Hotels International,0.21323350571775426,Construcción,"Ocio, Turismo Y Hostelería"
+Acciona Energía,Meliá Hotels International,0.1841163274756893,Energías Renovables,"Ocio, Turismo Y Hostelería"
+Acerinox,Meliá Hotels International,0.38078375282132115,"Mineral, Metales Y Transformación","Ocio, Turismo Y Hostelería"
+Aena,Meliá Hotels International,0.4749982814759259,Transporte Y Distribución,"Ocio, Turismo Y Hostelería"
+Amadeus IT Group,Meliá Hotels International,0.6101988003749957,Electrónica Y Software,"Ocio, Turismo Y Hostelería"
+ArcelorMittal,Meliá Hotels International,0.35295000682625305,"Mineral, Metales Y Transformación","Ocio, Turismo Y Hostelería"
+BBVA,Meliá Hotels International,0.4210741356016403,Bancos Y Cajas De Ahorro,"Ocio, Turismo Y Hostelería"
+Banco Sabadell,Meliá Hotels International,0.36578111356685794,Bancos Y Cajas De Ahorro,"Ocio, Turismo Y Hostelería"
+Bankinter,Meliá Hotels International,0.3319769863710521,Bancos Y Cajas De Ahorro,"Ocio, Turismo Y Hostelería"
+CaixaBank,Meliá Hotels International,0.34726982245503013,Bancos Y Cajas De Ahorro,"Ocio, Turismo Y Hostelería"
+Cellnex Telecom,Meliá Hotels International,0.19300010430097644,Telecomunicaciones Y Otros,"Ocio, Turismo Y Hostelería"
+Enagás,Meliá Hotels International,0.13814857450442575,Electricidad Y Gas,"Ocio, Turismo Y Hostelería"
+Endesa,Meliá Hotels International,0.19691413714434242,Electricidad Y Gas,"Ocio, Turismo Y Hostelería"
+Ferrovial,Meliá Hotels International,0.4036484207172715,Construcción,"Ocio, Turismo Y Hostelería"
+Fluidra,Meliá Hotels International,0.3326137632306632,Ingeniería Y Otros,"Ocio, Turismo Y Hostelería"
+Grifols,Meliá Hotels International,0.248496787576743,Productos Farmacéuticos Y Biotecnología,"Ocio, Turismo Y Hostelería"
+Iberdrola,Meliá Hotels International,0.21851862793913177,Electricidad Y Gas,"Ocio, Turismo Y Hostelería"
+Inditex,Meliá Hotels International,0.40419873696477493,"Textil, Vestido Y Calzado","Ocio, Turismo Y Hostelería"
+Indra,Meliá Hotels International,0.27178956671227056,Electrónica Y Software,"Ocio, Turismo Y Hostelería"
+Inmobiliaria Colonial,Meliá Hotels International,0.4111283282374814,Socimi,"Ocio, Turismo Y Hostelería"
+International Airlines Group,Meliá Hotels International,0.6243715259130344,Transporte Y Distribución,"Ocio, Turismo Y Hostelería"
+Laboratorios Rovi,Meliá Hotels International,0.15781160906183353,Productos Farmacéuticos Y Biotecnología,"Ocio, Turismo Y Hostelería"
+Logista,Meliá Hotels International,0.2801346715463557,Transporte Y Distribución,"Ocio, Turismo Y Hostelería"
+MAPFRE,Meliá Hotels International,0.35551237389057033,Seguros,"Ocio, Turismo Y Hostelería"
+Merlin Properties,Meliá Hotels International,0.41561037367665005,Socimi,"Ocio, Turismo Y Hostelería"
+Naturgy,Meliá Hotels International,0.1482084339621024,Electricidad Y Gas,"Ocio, Turismo Y Hostelería"
+Redeia,Meliá Hotels International,0.07684418456938001,Electricidad Y Gas,"Ocio, Turismo Y Hostelería"
+Repsol,Meliá Hotels International,0.23644479731159837,Petróleo,"Ocio, Turismo Y Hostelería"
+Sacyr,Meliá Hotels International,0.4449196168692333,Construcción,"Ocio, Turismo Y Hostelería"
+Santander,Meliá Hotels International,0.4594791428132462,Bancos Y Cajas De Ahorro,"Ocio, Turismo Y Hostelería"
+Solaria,Meliá Hotels International,0.17800033189513245,Energías Renovables,"Ocio, Turismo Y Hostelería"
+Telefónica,Meliá Hotels International,0.2031500342401308,Telecomunicaciones Y Otros,"Ocio, Turismo Y Hostelería"
+Unicaja,Meliá Hotels International,0.36644194526718277,Bancos Y Cajas De Ahorro,"Ocio, Turismo Y Hostelería"
+ACS,Merlin Properties,0.39866074920156297,Construcción,Socimi
+Acciona,Merlin Properties,0.4030683047880463,Construcción,Socimi
+Acciona Energía,Merlin Properties,0.34745445066083985,Energías Renovables,Socimi
+Acerinox,Merlin Properties,0.35121347000250647,"Mineral, Metales Y Transformación",Socimi
+Aena,Merlin Properties,0.39426779312677457,Transporte Y Distribución,Socimi
+Amadeus IT Group,Merlin Properties,0.4357317547828195,Electrónica Y Software,Socimi
+ArcelorMittal,Merlin Properties,0.32607942727491046,"Mineral, Metales Y Transformación",Socimi
+BBVA,Merlin Properties,0.36286348541424795,Bancos Y Cajas De Ahorro,Socimi
+Banco Sabadell,Merlin Properties,0.27370434183317194,Bancos Y Cajas De Ahorro,Socimi
+Bankinter,Merlin Properties,0.27808514686821956,Bancos Y Cajas De Ahorro,Socimi
+CaixaBank,Merlin Properties,0.2635606803359387,Bancos Y Cajas De Ahorro,Socimi
+Cellnex Telecom,Merlin Properties,0.3746027181616214,Telecomunicaciones Y Otros,Socimi
+Enagás,Merlin Properties,0.3435812144200912,Electricidad Y Gas,Socimi
+Endesa,Merlin Properties,0.35078375057427885,Electricidad Y Gas,Socimi
+Ferrovial,Merlin Properties,0.43720732268161944,Construcción,Socimi
+Fluidra,Merlin Properties,0.3664054501407352,Ingeniería Y Otros,Socimi
+Grifols,Merlin Properties,0.24118384433600948,Productos Farmacéuticos Y Biotecnología,Socimi
+Iberdrola,Merlin Properties,0.36708421968101085,Electricidad Y Gas,Socimi
+Inditex,Merlin Properties,0.3502873238209686,"Textil, Vestido Y Calzado",Socimi
+Indra,Merlin Properties,0.20706010403468345,Electrónica Y Software,Socimi
+Inmobiliaria Colonial,Merlin Properties,0.794826484646547,Socimi,Socimi
+International Airlines Group,Merlin Properties,0.40633473159728106,Transporte Y Distribución,Socimi
+Laboratorios Rovi,Merlin Properties,0.1776011181471399,Productos Farmacéuticos Y Biotecnología,Socimi
+Logista,Merlin Properties,0.31608314672015037,Transporte Y Distribución,Socimi
+MAPFRE,Merlin Properties,0.3571610020681718,Seguros,Socimi
+Meliá Hotels International,Merlin Properties,0.41561037367665005,"Ocio, Turismo Y Hostelería",Socimi
+Naturgy,Merlin Properties,0.29535297931925125,Electricidad Y Gas,Socimi
+Redeia,Merlin Properties,0.30187081206632005,Electricidad Y Gas,Socimi
+Repsol,Merlin Properties,0.14765761827343937,Petróleo,Socimi
+Sacyr,Merlin Properties,0.45477734628953004,Construcción,Socimi
+Santander,Merlin Properties,0.40323275625584104,Bancos Y Cajas De Ahorro,Socimi
+Solaria,Merlin Properties,0.28650827262760825,Energías Renovables,Socimi
+Telefónica,Merlin Properties,0.28199024388483296,Telecomunicaciones Y Otros,Socimi
+Unicaja,Merlin Properties,0.2690136570636064,Bancos Y Cajas De Ahorro,Socimi
+ACS,Naturgy,0.24844714745832688,Construcción,Electricidad Y Gas
+Acciona,Naturgy,0.37968653482525855,Construcción,Electricidad Y Gas
+Acciona Energía,Naturgy,0.32194317771597464,Energías Renovables,Electricidad Y Gas
+Acerinox,Naturgy,0.1572935155817701,"Mineral, Metales Y Transformación",Electricidad Y Gas
+Aena,Naturgy,0.2670020193932614,Transporte Y Distribución,Electricidad Y Gas
+Amadeus IT Group,Naturgy,0.21949221084524795,Electrónica Y Software,Electricidad Y Gas
+ArcelorMittal,Naturgy,0.13961156217996828,"Mineral, Metales Y Transformación",Electricidad Y Gas
+BBVA,Naturgy,0.18796357558210094,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Banco Sabadell,Naturgy,0.11640603114168671,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Bankinter,Naturgy,0.1309952792009633,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+CaixaBank,Naturgy,0.14187456685615954,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Cellnex Telecom,Naturgy,0.27762312517422544,Telecomunicaciones Y Otros,Electricidad Y Gas
+Enagás,Naturgy,0.5182922985056871,Electricidad Y Gas,Electricidad Y Gas
+Endesa,Naturgy,0.4837066321346117,Electricidad Y Gas,Electricidad Y Gas
+Ferrovial,Naturgy,0.298090566753894,Construcción,Electricidad Y Gas
+Fluidra,Naturgy,0.12264647176075832,Ingeniería Y Otros,Electricidad Y Gas
+Grifols,Naturgy,0.14166853200198293,Productos Farmacéuticos Y Biotecnología,Electricidad Y Gas
+Iberdrola,Naturgy,0.4683111628197841,Electricidad Y Gas,Electricidad Y Gas
+Inditex,Naturgy,0.18338649314141775,"Textil, Vestido Y Calzado",Electricidad Y Gas
+Indra,Naturgy,0.08433351054422566,Electrónica Y Software,Electricidad Y Gas
+Inmobiliaria Colonial,Naturgy,0.32442751070800335,Socimi,Electricidad Y Gas
+International Airlines Group,Naturgy,0.1728655883921853,Transporte Y Distribución,Electricidad Y Gas
+Laboratorios Rovi,Naturgy,0.083232034954892,Productos Farmacéuticos Y Biotecnología,Electricidad Y Gas
+Logista,Naturgy,0.2012106267315799,Transporte Y Distribución,Electricidad Y Gas
+MAPFRE,Naturgy,0.2363696555021496,Seguros,Electricidad Y Gas
+Meliá Hotels International,Naturgy,0.1482084339621024,"Ocio, Turismo Y Hostelería",Electricidad Y Gas
+Merlin Properties,Naturgy,0.29535297931925125,Socimi,Electricidad Y Gas
+Redeia,Naturgy,0.46038415438597796,Electricidad Y Gas,Electricidad Y Gas
+Repsol,Naturgy,0.1812765967819585,Petróleo,Electricidad Y Gas
+Sacyr,Naturgy,0.28273612263963144,Construcción,Electricidad Y Gas
+Santander,Naturgy,0.1923410837607841,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Solaria,Naturgy,0.3021064286235752,Energías Renovables,Electricidad Y Gas
+Telefónica,Naturgy,0.24578044997928603,Telecomunicaciones Y Otros,Electricidad Y Gas
+Unicaja,Naturgy,0.13083721304564774,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+ACS,Redeia,0.15046329186625854,Construcción,Electricidad Y Gas
+Acciona,Redeia,0.44712773358077024,Construcción,Electricidad Y Gas
+Acciona Energía,Redeia,0.33411412695002407,Energías Renovables,Electricidad Y Gas
+Acerinox,Redeia,0.0840892977667316,"Mineral, Metales Y Transformación",Electricidad Y Gas
+Aena,Redeia,0.24746517380750527,Transporte Y Distribución,Electricidad Y Gas
+Amadeus IT Group,Redeia,0.11864907542368576,Electrónica Y Software,Electricidad Y Gas
+ArcelorMittal,Redeia,0.03723534623553022,"Mineral, Metales Y Transformación",Electricidad Y Gas
+BBVA,Redeia,0.07285205725490404,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Banco Sabadell,Redeia,0.03686411420418349,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Bankinter,Redeia,0.043734766284695074,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+CaixaBank,Redeia,0.05034588494441179,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Cellnex Telecom,Redeia,0.3689829515838021,Telecomunicaciones Y Otros,Electricidad Y Gas
+Enagás,Redeia,0.6544628499338097,Electricidad Y Gas,Electricidad Y Gas
+Endesa,Redeia,0.5507687349973713,Electricidad Y Gas,Electricidad Y Gas
+Ferrovial,Redeia,0.27684679747719226,Construcción,Electricidad Y Gas
+Fluidra,Redeia,0.16244147634724285,Ingeniería Y Otros,Electricidad Y Gas
+Grifols,Redeia,0.12227269030418358,Productos Farmacéuticos Y Biotecnología,Electricidad Y Gas
+Iberdrola,Redeia,0.5463279508050715,Electricidad Y Gas,Electricidad Y Gas
+Inditex,Redeia,0.1410723740153747,"Textil, Vestido Y Calzado",Electricidad Y Gas
+Indra,Redeia,0.02318488763359037,Electrónica Y Software,Electricidad Y Gas
+Inmobiliaria Colonial,Redeia,0.3325171100408242,Socimi,Electricidad Y Gas
+International Airlines Group,Redeia,0.09938173497400205,Transporte Y Distribución,Electricidad Y Gas
+Laboratorios Rovi,Redeia,0.06541418448249742,Productos Farmacéuticos Y Biotecnología,Electricidad Y Gas
+Logista,Redeia,0.21628746816648406,Transporte Y Distribución,Electricidad Y Gas
+MAPFRE,Redeia,0.21853356185791276,Seguros,Electricidad Y Gas
+Meliá Hotels International,Redeia,0.07684418456938001,"Ocio, Turismo Y Hostelería",Electricidad Y Gas
+Merlin Properties,Redeia,0.30187081206632005,Socimi,Electricidad Y Gas
+Naturgy,Redeia,0.46038415438597796,Electricidad Y Gas,Electricidad Y Gas
+Repsol,Redeia,0.07498789905883932,Petróleo,Electricidad Y Gas
+Sacyr,Redeia,0.23186391790760683,Construcción,Electricidad Y Gas
+Santander,Redeia,0.0986443639047487,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+Solaria,Redeia,0.3053947897796837,Energías Renovables,Electricidad Y Gas
+Telefónica,Redeia,0.28543907646257977,Telecomunicaciones Y Otros,Electricidad Y Gas
+Unicaja,Redeia,0.04479560872278559,Bancos Y Cajas De Ahorro,Electricidad Y Gas
+ACS,Repsol,0.2688495576025584,Construcción,Petróleo
+Acciona,Repsol,0.14805259777776064,Construcción,Petróleo
+Acciona Energía,Repsol,0.10118578737490096,Energías Renovables,Petróleo
+Acerinox,Repsol,0.3130452869080318,"Mineral, Metales Y Transformación",Petróleo
+Aena,Repsol,0.15005098385048624,Transporte Y Distribución,Petróleo
+Amadeus IT Group,Repsol,0.17555622553079864,Electrónica Y Software,Petróleo
+ArcelorMittal,Repsol,0.33564172914006535,"Mineral, Metales Y Transformación",Petróleo
+BBVA,Repsol,0.27945316500185585,Bancos Y Cajas De Ahorro,Petróleo
+Banco Sabadell,Repsol,0.2721541758233854,Bancos Y Cajas De Ahorro,Petróleo
+Bankinter,Repsol,0.25980449261039074,Bancos Y Cajas De Ahorro,Petróleo
+CaixaBank,Repsol,0.30723286246561154,Bancos Y Cajas De Ahorro,Petróleo
+Cellnex Telecom,Repsol,-0.024711098216031097,Telecomunicaciones Y Otros,Petróleo
+Enagás,Repsol,0.2020382182234998,Electricidad Y Gas,Petróleo
+Endesa,Repsol,0.11807703972708457,Electricidad Y Gas,Petróleo
+Ferrovial,Repsol,0.20714467605401463,Construcción,Petróleo
+Fluidra,Repsol,0.12096771401325108,Ingeniería Y Otros,Petróleo
+Grifols,Repsol,0.08410022496907266,Productos Farmacéuticos Y Biotecnología,Petróleo
+Iberdrola,Repsol,0.08678824913807369,Electricidad Y Gas,Petróleo
+Inditex,Repsol,0.20587378818311874,"Textil, Vestido Y Calzado",Petróleo
+Indra,Repsol,0.1494941006391762,Electrónica Y Software,Petróleo
+Inmobiliaria Colonial,Repsol,0.12297232523081561,Socimi,Petróleo
+International Airlines Group,Repsol,0.17523765817850145,Transporte Y Distribución,Petróleo
+Laboratorios Rovi,Repsol,0.09646244152331658,Productos Farmacéuticos Y Biotecnología,Petróleo
+Logista,Repsol,0.13862744424641277,Transporte Y Distribución,Petróleo
+MAPFRE,Repsol,0.25065958543104816,Seguros,Petróleo
+Meliá Hotels International,Repsol,0.23644479731159837,"Ocio, Turismo Y Hostelería",Petróleo
+Merlin Properties,Repsol,0.14765761827343937,Socimi,Petróleo
+Naturgy,Repsol,0.1812765967819585,Electricidad Y Gas,Petróleo
+Redeia,Repsol,0.07498789905883932,Electricidad Y Gas,Petróleo
+Sacyr,Repsol,0.3190735688618186,Construcción,Petróleo
+Santander,Repsol,0.29962794318702585,Bancos Y Cajas De Ahorro,Petróleo
+Solaria,Repsol,0.0936940956700834,Energías Renovables,Petróleo
+Telefónica,Repsol,0.19905541029953713,Telecomunicaciones Y Otros,Petróleo
+Unicaja,Repsol,0.24339998567440993,Bancos Y Cajas De Ahorro,Petróleo
+ACS,Sacyr,0.5326287490546788,Construcción,Construcción
+Acciona,Sacyr,0.4009220878602348,Construcción,Construcción
+Acciona Energía,Sacyr,0.30929740545117296,Energías Renovables,Construcción
+Acerinox,Sacyr,0.4681234760631822,"Mineral, Metales Y Transformación",Construcción
+Aena,Sacyr,0.4668667908567726,Transporte Y Distribución,Construcción
+Amadeus IT Group,Sacyr,0.41719063017052194,Electrónica Y Software,Construcción
+ArcelorMittal,Sacyr,0.45977999088014354,"Mineral, Metales Y Transformación",Construcción
+BBVA,Sacyr,0.4782459504394377,Bancos Y Cajas De Ahorro,Construcción
+Banco Sabadell,Sacyr,0.4042044990342154,Bancos Y Cajas De Ahorro,Construcción
+Bankinter,Sacyr,0.4040557814785478,Bancos Y Cajas De Ahorro,Construcción
+CaixaBank,Sacyr,0.4080108610405253,Bancos Y Cajas De Ahorro,Construcción
+Cellnex Telecom,Sacyr,0.2557676178063788,Telecomunicaciones Y Otros,Construcción
+Enagás,Sacyr,0.2880570123749209,Electricidad Y Gas,Construcción
+Endesa,Sacyr,0.33048341418097443,Electricidad Y Gas,Construcción
+Ferrovial,Sacyr,0.5554678038287736,Construcción,Construcción
+Fluidra,Sacyr,0.34767265016299737,Ingeniería Y Otros,Construcción
+Grifols,Sacyr,0.21826059995060676,Productos Farmacéuticos Y Biotecnología,Construcción
+Iberdrola,Sacyr,0.3513297147042238,Electricidad Y Gas,Construcción
+Inditex,Sacyr,0.41289288046812334,"Textil, Vestido Y Calzado",Construcción
+Indra,Sacyr,0.2782319305749336,Electrónica Y Software,Construcción
+Inmobiliaria Colonial,Sacyr,0.4239727391300722,Socimi,Construcción
+International Airlines Group,Sacyr,0.46514150594870657,Transporte Y Distribución,Construcción
+Laboratorios Rovi,Sacyr,0.18770980198513657,Productos Farmacéuticos Y Biotecnología,Construcción
+Logista,Sacyr,0.36102464850708926,Transporte Y Distribución,Construcción
+MAPFRE,Sacyr,0.44659882645334753,Seguros,Construcción
+Meliá Hotels International,Sacyr,0.4449196168692333,"Ocio, Turismo Y Hostelería",Construcción
+Merlin Properties,Sacyr,0.45477734628953004,Socimi,Construcción
+Naturgy,Sacyr,0.28273612263963144,Electricidad Y Gas,Construcción
+Redeia,Sacyr,0.23186391790760683,Electricidad Y Gas,Construcción
+Repsol,Sacyr,0.3190735688618186,Petróleo,Construcción
+Santander,Sacyr,0.5291880165312846,Bancos Y Cajas De Ahorro,Construcción
+Solaria,Sacyr,0.27104041093955084,Energías Renovables,Construcción
+Telefónica,Sacyr,0.2716824431513747,Telecomunicaciones Y Otros,Construcción
+Unicaja,Sacyr,0.401168283746154,Bancos Y Cajas De Ahorro,Construcción
+ACS,Santander,0.5192679632521531,Construcción,Bancos Y Cajas De Ahorro
+Acciona,Santander,0.2861856407142579,Construcción,Bancos Y Cajas De Ahorro
+Acciona Energía,Santander,0.19092804620031226,Energías Renovables,Bancos Y Cajas De Ahorro
+Acerinox,Santander,0.49181538794970053,"Mineral, Metales Y Transformación",Bancos Y Cajas De Ahorro
+Aena,Santander,0.381968811227046,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+Amadeus IT Group,Santander,0.42528215308385436,Electrónica Y Software,Bancos Y Cajas De Ahorro
+ArcelorMittal,Santander,0.5359789540053475,"Mineral, Metales Y Transformación",Bancos Y Cajas De Ahorro
+BBVA,Santander,0.790216852762603,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Banco Sabadell,Santander,0.7109220397814858,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Bankinter,Santander,0.6749371840873813,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+CaixaBank,Santander,0.7222365000653277,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Cellnex Telecom,Santander,0.0932365868848111,Telecomunicaciones Y Otros,Bancos Y Cajas De Ahorro
+Enagás,Santander,0.16452051661761402,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Endesa,Santander,0.2467111889802476,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Ferrovial,Santander,0.41458286793799753,Construcción,Bancos Y Cajas De Ahorro
+Fluidra,Santander,0.3511985222647692,Ingeniería Y Otros,Bancos Y Cajas De Ahorro
+Grifols,Santander,0.22213272424132008,Productos Farmacéuticos Y Biotecnología,Bancos Y Cajas De Ahorro
+Iberdrola,Santander,0.23332091437336866,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Inditex,Santander,0.4172245818190057,"Textil, Vestido Y Calzado",Bancos Y Cajas De Ahorro
+Indra,Santander,0.26445907458612766,Electrónica Y Software,Bancos Y Cajas De Ahorro
+Inmobiliaria Colonial,Santander,0.36099415172687865,Socimi,Bancos Y Cajas De Ahorro
+International Airlines Group,Santander,0.4948046111934137,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+Laboratorios Rovi,Santander,0.1895739004813426,Productos Farmacéuticos Y Biotecnología,Bancos Y Cajas De Ahorro
+Logista,Santander,0.33496168745508725,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+MAPFRE,Santander,0.569221407282791,Seguros,Bancos Y Cajas De Ahorro
+Meliá Hotels International,Santander,0.4594791428132462,"Ocio, Turismo Y Hostelería",Bancos Y Cajas De Ahorro
+Merlin Properties,Santander,0.40323275625584104,Socimi,Bancos Y Cajas De Ahorro
+Naturgy,Santander,0.1923410837607841,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Redeia,Santander,0.0986443639047487,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Repsol,Santander,0.29962794318702585,Petróleo,Bancos Y Cajas De Ahorro
+Sacyr,Santander,0.5291880165312846,Construcción,Bancos Y Cajas De Ahorro
+Solaria,Santander,0.13594912774741927,Energías Renovables,Bancos Y Cajas De Ahorro
+Telefónica,Santander,0.28792685613758656,Telecomunicaciones Y Otros,Bancos Y Cajas De Ahorro
+Unicaja,Santander,0.6715201568049141,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+ACS,Solaria,0.221492565715158,Construcción,Energías Renovables
+Acciona,Solaria,0.5638283138669509,Construcción,Energías Renovables
+Acciona Energía,Solaria,0.5653324487249607,Energías Renovables,Energías Renovables
+Acerinox,Solaria,0.17929894953426667,"Mineral, Metales Y Transformación",Energías Renovables
+Aena,Solaria,0.18353571834237375,Transporte Y Distribución,Energías Renovables
+Amadeus IT Group,Solaria,0.1946394812310315,Electrónica Y Software,Energías Renovables
+ArcelorMittal,Solaria,0.1735917879285324,"Mineral, Metales Y Transformación",Energías Renovables
+BBVA,Solaria,0.11664822568602,Bancos Y Cajas De Ahorro,Energías Renovables
+Banco Sabadell,Solaria,0.03261398873724253,Bancos Y Cajas De Ahorro,Energías Renovables
+Bankinter,Solaria,0.030961244519173682,Bancos Y Cajas De Ahorro,Energías Renovables
+CaixaBank,Solaria,0.055191618236852695,Bancos Y Cajas De Ahorro,Energías Renovables
+Cellnex Telecom,Solaria,0.3031743779813287,Telecomunicaciones Y Otros,Energías Renovables
+Enagás,Solaria,0.28662486242289537,Electricidad Y Gas,Energías Renovables
+Endesa,Solaria,0.3569494528896216,Electricidad Y Gas,Energías Renovables
+Ferrovial,Solaria,0.2601201920177159,Construcción,Energías Renovables
+Fluidra,Solaria,0.2320815567057387,Ingeniería Y Otros,Energías Renovables
+Grifols,Solaria,0.23039641056001678,Productos Farmacéuticos Y Biotecnología,Energías Renovables
+Iberdrola,Solaria,0.43018081669604885,Electricidad Y Gas,Energías Renovables
+Inditex,Solaria,0.1530894355178689,"Textil, Vestido Y Calzado",Energías Renovables
+Indra,Solaria,0.14714206707461625,Electrónica Y Software,Energías Renovables
+Inmobiliaria Colonial,Solaria,0.30406202770313956,Socimi,Energías Renovables
+International Airlines Group,Solaria,0.12901343327161147,Transporte Y Distribución,Energías Renovables
+Laboratorios Rovi,Solaria,0.16246506723729157,Productos Farmacéuticos Y Biotecnología,Energías Renovables
+Logista,Solaria,0.10751186986511342,Transporte Y Distribución,Energías Renovables
+MAPFRE,Solaria,0.13294581515559112,Seguros,Energías Renovables
+Meliá Hotels International,Solaria,0.17800033189513245,"Ocio, Turismo Y Hostelería",Energías Renovables
+Merlin Properties,Solaria,0.28650827262760825,Socimi,Energías Renovables
+Naturgy,Solaria,0.3021064286235752,Electricidad Y Gas,Energías Renovables
+Redeia,Solaria,0.3053947897796837,Electricidad Y Gas,Energías Renovables
+Repsol,Solaria,0.0936940956700834,Petróleo,Energías Renovables
+Sacyr,Solaria,0.27104041093955084,Construcción,Energías Renovables
+Santander,Solaria,0.13594912774741927,Bancos Y Cajas De Ahorro,Energías Renovables
+Telefónica,Solaria,0.07271161826452797,Telecomunicaciones Y Otros,Energías Renovables
+Unicaja,Solaria,0.04993302472502239,Bancos Y Cajas De Ahorro,Energías Renovables
+ACS,Telefónica,0.20288619861505555,Construcción,Telecomunicaciones Y Otros
+Acciona,Telefónica,0.2283543227901487,Construcción,Telecomunicaciones Y Otros
+Acciona Energía,Telefónica,0.11058329350415713,Energías Renovables,Telecomunicaciones Y Otros
+Acerinox,Telefónica,0.18628674845481316,"Mineral, Metales Y Transformación",Telecomunicaciones Y Otros
+Aena,Telefónica,0.26113338392874674,Transporte Y Distribución,Telecomunicaciones Y Otros
+Amadeus IT Group,Telefónica,0.19139132340876155,Electrónica Y Software,Telecomunicaciones Y Otros
+ArcelorMittal,Telefónica,0.20165222929312845,"Mineral, Metales Y Transformación",Telecomunicaciones Y Otros
+BBVA,Telefónica,0.24717263510813636,Bancos Y Cajas De Ahorro,Telecomunicaciones Y Otros
+Banco Sabadell,Telefónica,0.2537769248125458,Bancos Y Cajas De Ahorro,Telecomunicaciones Y Otros
+Bankinter,Telefónica,0.22104200870796464,Bancos Y Cajas De Ahorro,Telecomunicaciones Y Otros
+CaixaBank,Telefónica,0.2050419452363186,Bancos Y Cajas De Ahorro,Telecomunicaciones Y Otros
+Cellnex Telecom,Telefónica,0.2321588058809466,Telecomunicaciones Y Otros,Telecomunicaciones Y Otros
+Enagás,Telefónica,0.32826921325674513,Electricidad Y Gas,Telecomunicaciones Y Otros
+Endesa,Telefónica,0.26104295729570204,Electricidad Y Gas,Telecomunicaciones Y Otros
+Ferrovial,Telefónica,0.2159292291576244,Construcción,Telecomunicaciones Y Otros
+Fluidra,Telefónica,0.12938968698420358,Ingeniería Y Otros,Telecomunicaciones Y Otros
+Grifols,Telefónica,0.14290831270062632,Productos Farmacéuticos Y Biotecnología,Telecomunicaciones Y Otros
+Iberdrola,Telefónica,0.2632736001770043,Electricidad Y Gas,Telecomunicaciones Y Otros
+Inditex,Telefónica,0.22668424132168474,"Textil, Vestido Y Calzado",Telecomunicaciones Y Otros
+Indra,Telefónica,0.0897343388700067,Electrónica Y Software,Telecomunicaciones Y Otros
+Inmobiliaria Colonial,Telefónica,0.30135580199871514,Socimi,Telecomunicaciones Y Otros
+International Airlines Group,Telefónica,0.19180050439642735,Transporte Y Distribución,Telecomunicaciones Y Otros
+Laboratorios Rovi,Telefónica,0.08439380822548721,Productos Farmacéuticos Y Biotecnología,Telecomunicaciones Y Otros
+Logista,Telefónica,0.21487943533795445,Transporte Y Distribución,Telecomunicaciones Y Otros
+MAPFRE,Telefónica,0.31772836989037134,Seguros,Telecomunicaciones Y Otros
+Meliá Hotels International,Telefónica,0.2031500342401308,"Ocio, Turismo Y Hostelería",Telecomunicaciones Y Otros
+Merlin Properties,Telefónica,0.28199024388483296,Socimi,Telecomunicaciones Y Otros
+Naturgy,Telefónica,0.24578044997928603,Electricidad Y Gas,Telecomunicaciones Y Otros
+Redeia,Telefónica,0.28543907646257977,Electricidad Y Gas,Telecomunicaciones Y Otros
+Repsol,Telefónica,0.19905541029953713,Petróleo,Telecomunicaciones Y Otros
+Sacyr,Telefónica,0.2716824431513747,Construcción,Telecomunicaciones Y Otros
+Santander,Telefónica,0.28792685613758656,Bancos Y Cajas De Ahorro,Telecomunicaciones Y Otros
+Solaria,Telefónica,0.07271161826452797,Energías Renovables,Telecomunicaciones Y Otros
+Unicaja,Telefónica,0.20181373448305565,Bancos Y Cajas De Ahorro,Telecomunicaciones Y Otros
+ACS,Unicaja,0.3696870759664727,Construcción,Bancos Y Cajas De Ahorro
+Acciona,Unicaja,0.18065878510532854,Construcción,Bancos Y Cajas De Ahorro
+Acciona Energía,Unicaja,0.10135704501118721,Energías Renovables,Bancos Y Cajas De Ahorro
+Acerinox,Unicaja,0.39515765343174764,"Mineral, Metales Y Transformación",Bancos Y Cajas De Ahorro
+Aena,Unicaja,0.29859097088978187,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+Amadeus IT Group,Unicaja,0.34252739701743923,Electrónica Y Software,Bancos Y Cajas De Ahorro
+ArcelorMittal,Unicaja,0.38373212494720305,"Mineral, Metales Y Transformación",Bancos Y Cajas De Ahorro
+BBVA,Unicaja,0.6394304086704372,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Banco Sabadell,Unicaja,0.6953929064736705,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Bankinter,Unicaja,0.6961566481598095,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+CaixaBank,Unicaja,0.7051633042567709,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Cellnex Telecom,Unicaja,0.00829260970312036,Telecomunicaciones Y Otros,Bancos Y Cajas De Ahorro
+Enagás,Unicaja,0.09212052932048798,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Endesa,Unicaja,0.17412281000138102,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Ferrovial,Unicaja,0.2796739350292639,Construcción,Bancos Y Cajas De Ahorro
+Fluidra,Unicaja,0.21369327290863846,Ingeniería Y Otros,Bancos Y Cajas De Ahorro
+Grifols,Unicaja,0.18488265087660732,Productos Farmacéuticos Y Biotecnología,Bancos Y Cajas De Ahorro
+Iberdrola,Unicaja,0.11704414339055376,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Inditex,Unicaja,0.2856450208567294,"Textil, Vestido Y Calzado",Bancos Y Cajas De Ahorro
+Indra,Unicaja,0.22579924571441912,Electrónica Y Software,Bancos Y Cajas De Ahorro
+Inmobiliaria Colonial,Unicaja,0.2401397055786108,Socimi,Bancos Y Cajas De Ahorro
+International Airlines Group,Unicaja,0.37386994670413687,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+Laboratorios Rovi,Unicaja,0.11817202243349972,Productos Farmacéuticos Y Biotecnología,Bancos Y Cajas De Ahorro
+Logista,Unicaja,0.2914108670963445,Transporte Y Distribución,Bancos Y Cajas De Ahorro
+MAPFRE,Unicaja,0.4783630582990035,Seguros,Bancos Y Cajas De Ahorro
+Meliá Hotels International,Unicaja,0.36644194526718277,"Ocio, Turismo Y Hostelería",Bancos Y Cajas De Ahorro
+Merlin Properties,Unicaja,0.2690136570636064,Socimi,Bancos Y Cajas De Ahorro
+Naturgy,Unicaja,0.13083721304564774,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Redeia,Unicaja,0.04479560872278559,Electricidad Y Gas,Bancos Y Cajas De Ahorro
+Repsol,Unicaja,0.24339998567440993,Petróleo,Bancos Y Cajas De Ahorro
+Sacyr,Unicaja,0.401168283746154,Construcción,Bancos Y Cajas De Ahorro
+Santander,Unicaja,0.6715201568049141,Bancos Y Cajas De Ahorro,Bancos Y Cajas De Ahorro
+Solaria,Unicaja,0.04993302472502239,Energías Renovables,Bancos Y Cajas De Ahorro
+Telefónica,Unicaja,0.20181373448305565,Telecomunicaciones Y Otros,Bancos Y Cajas De Ahorro
